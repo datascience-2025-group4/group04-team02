@@ -1,5 +1,9 @@
 .DS_Store
-data/pdb_files/
+data/*/
 PDB/
 Datensätze /
 .DS_Store
+
+.venv/
+__pycache__/
+*.pyc
