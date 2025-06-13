@@ -1,382 +1,101 @@
 pdb	heavy_chain	CDR_H3
-8rmx	E	
-8rmy	E	
-9avo	B	
-9awe	B	
-9dq3	H	
-9gox	H	
-9goy	H	
-9mi6	H	
-9l1s	C	
-8v9d	I	
-8v91	J	
-8vc7	J	
-8y31	B	
-9dh2	A	
-8vgn	A	
-8vgo	A	
-8ywq	H	
-8vgh	H	
-8vgi	F	
-8vgj	F	
-8vgk	F	
-8vgp	H	
-9gwt	H	
-8vqd	C	
-8vsj	H	
-8tbb	H	
-8tft	I	
-8udz	C	
-8vui	A	
-8vvm	A	
-8tv1	D	
-8rp8	A	
-8rpb	H	
-8ts0	H	
-8u31	C	
-8u32	C	
-8urf	H	
-8tzw	H	
-8u03	H	
-8u08	H	
-8yx1	H	
-8yx9	H	
-8ruu	B	
-8uky	H	
-8v52	D	
-8tbq	H	
-8r1d	F	
-8gat	M	
-8jel	C	
-8jen	A	
-8jeo	B	
-8jnk	I	
-8b7h	H	
-8fja	E	
-8r8d	E	
-8tui	H	
-8ucd	H	
-8trs	A	
-8trt	A	
-8w83	A	
-8w85	A	
-8w86	A	
-8w84	A	
-8oxv	B	
-8oxw	B	
-8oxx	B	
-8oxy	B	
-8gy5	A	
-8gye	B	
-8pg0	H	
-8szy	A	
-8caf	B	
-8fgx	B	
-7yk4	H	
-7yv1	H	
-7yds	B	
-8ol9	B	
-8byu	H	
-8ivx	H	
-7zoz	H	
-7quh	H	
-7xjf	A	
-8f6l	A	
-8f6o	A	
-7st5	H	
-4edw	H	
-8d7e	F	
-8il3	B	
-7wsl	H	
-8ffe	H	
-8c7h	L	
-8ath	E	
-7z2m	B	
-7x8t	C	
-7yxu	H	
-7wn8	H	
-7ox1	A	
-7ox3	A	
-7df1	H	
-8eb2	J	
-7tr4	L	
-7zxk	H	
-7uvf	H	
-7s7i	H	
-8e7m	H	
-7sjn	D	
-7sjo	E	
-7ubr	E	
-7xw7	A	
-7t9n	H	
-7re7	I	
-7t0w	H	
-7t0z	H	
-7sk3	D	
-7sk4	D	
-7sk8	D	
-7sk9	F	
-4ypg	H	
-2vxs	J	
-7dc8	B	
-3x3f	H	
-6okm	H	
-6rp8	h	
-3hi6	H	
-4qhu	B	
-6nms	B	
-6vmj	F	
-4ers	H	
-6xp6	H	
-3dvn	B	
-4kxz	Q	
-5xmh	H	
-6rlo	C	
-6wir	A	
-7vux	H	
-4dn4	H	
-7amr	H	
-1jps	H	
-4hj0	C	
-5nh3	I	
-6mvl	H	
-4z5r	W	
-3so3	C	
-5mvz	H	
-5bo1	I	
-6ye3	D	
-6svl	O	
-5y9j	H	
-6vvu	J	
-6xlq	E	
-5ggv	H	
-2vh5	H	
-7ams	H	
-5xez	H	
-7chz	H	
-5lsp	H	
-3g04	B	
-3sob	H	
-3eoa	H	
-3nps	B	
-7shy	C	
-7amq	H	
-6u36	H	
-5hi4	C	
-6erx	F	
-7kql	H	
-5hys	A	
-5mes	H	
-3nfp	H	
-7keo	E	
-5bv7	C	
-6yxd	H	
-5mev	H	
-7si0	I	
-7ahu	B	
-5ggs	C	
-4d9r	H	
-4lmq	E	
-3hae	H	
-5xwd	H	
-3b2u	F	
-6fxn	D	
-3nh7	K	
-5tz2	H	
-5yoy	P	
-3h42	H	
-3gjf	H	
-4ogx	H	
-6pe8	H	
-5ggt	H	
-6mhr	A	
-6o3b	G	
-4i2x	D	
-3t2n	H	
-5jxe	D	
-3p0y	H	
-5tzt	H	
-1w72	I	
-6b3s	C	
-4wv1	B	
-5wi9	H	
-7seg	H	
-6m58	C	
-6pi7	C	
-7mdp	H	
-4s1q	H	
-6ktr	A	
-7su0	I	
-5anm	H	
-6o3a	B	
-6id4	H	
-5b8c	B	
-7chy	H	
-7lf8	H	
-6umx	H	
-3kr3	H	
-3hmx	H	
-3bn9	D	
-6nmr	A	
-4dkf	H	
-5sx4	H	
-3dvg	B	
-6xm2	F	
-5czx	H	
-7kf1	D	
-4g3y	H	
-7shu	E	
-6d2p	H	
-5wux	C	
-2wub	R	
-6ba5	F	
-6jjp	D	
-4y5v	D	
-6bfq	H	
-7kpg	H	
-5wk3	W	
-7amp	H	
-3u30	F	
-6xxv	A	
-7wkx	A	
-6bft	A	
-6nmu	B	
-1n8z	B	
-5hhx	H	
-2xqb	H	
-5wt9	H	
-7rco	F	
-6ogx	C	
-5hi3	C	
-5hi5	C	
-4zso	D	
-5utz	F	
-4dke	I	
-3mxw	H	
-7e9b	H	
-6ban	B	
-2h9g	H	
-6mi2	D	
-2fjg	H	
-5x8m	B	
-5xxy	H	
-4j4p	H	
-6wmw	H	
-7lfa	H	
-6umg	H	
-5veb	H	
-3thm	H	
-5occ	H	
-7shz	E	
-2j6e	I	
-7dha	C	
-4hcr	M	
-3l5x	H	
-6nha	H	
-5tzu	H	
-4zff	A	
-6fgb	H	
-7vyt	B	
-7lfb	H	
-6o9h	A	
-6ztr	H	
-7bbg	H	
-5ob5	H	
-5sx5	J	
-6mft	A	
-1uj3	B	
-6aod	B	
-6was	H	
-5d72	M	
-2xtj	D	
-5whk	H	
-2wuc	H	
-2qqk	H	
-3be1	H	
-7lf7	H	
-3sqo	H	
-5if0	A	
-6ppg	H	
-6fax	H	
-6hhc	H	
-6uj9	H	
-4ogy	H	
-6qb6	H	
-4h8w	H	
-5b71	D	
-6vc9	H	
-3d85	B	
-5tru	H	
-6nmt	B	
-5hhv	H	
-6k0y	A	
-3l5y	H	
-6rps	N	
-6xkr	H	
-7e72	A	
-6a3w	A	
-4qci	H	
-6nmv	H	
-7cj2	C	
-4hwb	H	
-4xwg	H	
-6dkj	H	
-6m3b	C	
-3r1g	H	
-7kez	H	
-7kf0	A	
-1iqd	B	
-4g6m	H	
-6wgl	A	
-5c7x	M	
-6al5	H	
-6yx9	H	
-5e8e	B	
-5j13	C	
-5n7w	H	
-2h32	H	
-5l6y	H	
-6wio	A	
-4cni	H	
-5ngv	H	
-3skj	H	
-6vgr	C	
-5oca	H	
-2uzi	H	
-2xwt	A	
-6yio	H	
-5d71	H	
-6wzm	C	
-3k2u	H	
-6o9i	D	
-7d85	B	
-4y5y	D	
-6o39	B	
-7mrz	X	
-7su1	H	
-4uu9	H	
-4uv7	H	
-4dtg	H	
-7elx	H	
-4i77	H	
-3bdy	H	
-1h0d	B	
-3grw	H	
-6o1f	H	
-2qqn	H	
-6bgt	B	
-3tje	H	
-5ies	H	
-7o52	H	
-7daa	H	
-6u6u	H	
-5bvp	H	
-7rp2	H	
-7duo	H	
-6u38	H	
-5d70	H	
-5o4g	B	
-7rp3	H	
-3q1s	H	
-4zfg	H	
-4ps4	H	
+8veb	G	VPFYYDTRGVFYGNAEGGFEI
+8ved	H	GRLDYSDTTGYYKPPPLDY
+9dpc	H	SYSGYDRIQYYYSGMDV
+9dru	H	GAQAGYSSFFPPTTF
+9ds1	H	DAISGQIWLQGTFDY
+9mer	H	GTEDLGYCSSGSCPNH
+9mev	H	GTEDLGYCSSGSCPNH
+9azr	H	GGLEPRSVDYYYYGMDV
+9azt	H	AGLEPRSVDYYFYGLDV
+9dm0	C	DPSNPPHWGNFDS
+8zr4	A	GSDPDYDKGWGAYRNTDRPSYDGLDV
+9ekf	D	HRRGHFYGSGSAWDWFES
+9dwe	H	HGNYYYYSGMDV
+8tx3	H	SGYSNYPFDY
+8txp	H	EATWKGSSIGVLGI
+8ut3	F	GLLQGVVILDSYYYTMDV
+8gat	M	TSSWGDYTRGPEPKITWYFDL
+8gav	H	GDPHYIWGTYLDS
+8ez3	H	SNSNTWSREYFQH
+8ez7	H	QRSVYSTSRSNWSVFLDD
+8ez8	H	DKGGLRWGSRGSDVFDI
+8tpa	H	EGWVPDYGGRNYYLDF
+8tp5	E	DGGDKFHSSGHFETNQGYFDH
+8tp7	D	HVYYSDTNSYTYFFDY
+8e6j	H	HVTSISSWNRGVYLDS
+7trh	H	LLDSIVWGEGWYYGMDV
+8dis	H	HMGYQVRETMDV
+8g3m	E	AGSDYFNRDLGWENYYFAS
+8g3n	E	AGSDYFNRDLGWENYYFAS
+8g3p	C	AGSDYFNRDLGWENYYFAS
+8g3q	C	ARSDYFNRDLGWEDYYFEN
+8g3r	C	ARSDYFNRDLGWEDYYFEN
+8g3v	A	AVSDYFNRDLGWEDYYFPF
+8g40	A	AVSDYFNRDLGWEDYYFPF
+8d21	H	DRLDTAVPRGWFDS
+7wvg	C	PSAIFGIYIILNGLDV
+8gv7	C	PSAIFGIYIILNGLDV
+8diu	G	HMGYQVRETMDV
+8dim	B	HMGYQVRETMDV
+5w08	K	DLTLMYVFDSGWARGAHDYYGMDV
+6q18	H	VPPYCTSASCPDDYYYHYMDV
+6pzw	F	DKRFITMILVGPFDY
+4fp8	I	HMSMQQVVSAGWERADLVGDAFDV
+6wxl	K	KRGAVTAMVYYYFYGMDV
+4m5z	H	HVRSGYPDTAYYFDK
+5k9q	U	DKKQGEVVLPAASFRWFAP
+6lxj	M	DLQDTPMVDRIIGSYYYYNGLDV
+5xku	C	GSTGDRHYYYYGMDV
+6iut	H	GFWGLDGFDI
+7k39	J	VEGVRGVMGFHYYPMDV
+5dur	H	ALLTTVTTFEY
+6e4x	Z	GGVENLMLVAVIQEMWYFDL
+5ugy	I	GGLEPRSVDYYYYGMDV
+3lzf	H	TLRVSGDYVRDFDL
+6q0h	H	APPYCTSASCPDDYYYYYMDV
+4yk4	C	RRSDFETVDFIYHYMDV
+6urm	H	MLYGDLGGRFDP
+6xq0	B	ALTEWLFQRGTRNHYYYGMDV
+7l0l	G	HSGYHITNTFFDY
+5y2l	I	DPLTKLLPFDWVSGGYFDY
+4hkx	A	AGLEPRSVDYYFYGLDV
+6q0o	Z	APPYCSSASCPDDYYYFFLDV
+7k37	J	VEGVRGVMGFHYYPMDV
+6ml8	H	HMSMQQVVSAGWERADLVGDAFDV
+4fqi	H	HGNYYYYSGMDV
+6pzf	H	STAAEFFDY
+6pze	H	DPGLEWELSVLSNWFDP
+4py8	I	DLGGYFIRGIMDV
+6whk	C	DWVRDIILLPALHLDY
+6oc3	C	GTEDLGYCSSGSCPNH
+6q0i	H	APPYCTSASCPDDYYYYYMDV
+5a3i	G	HASCSARSCYWGPVDY
+6a67	C	AENLLSPYLAEGFDP
+6uyn	H	HMGYQVRETMDV
+6iuv	C	RATYYYGSGSYFDAFDI
+6p3r	C	GFLERLLLGRQGAYYYGMDV
+5umn	E	HMSMQQVPGSGWERADLVGDAFDV
+4xnm	B	VALFDILTGGWFDP
+3sdy	H	EPPLFYSSWSLDN
+6q20	H	VRTWGDYTTGEEIINSWYFDL
+6q0e	H	APPYCSSTSCPDDYYYYYMDV
+5kan	H	NRVQMEVSPATQSTWYMDL
+3gbm	H	HMGYQVRETMDV
+4xrc	B	VALFDILTGGWFDP
+6xpx	B	DRGGLDV
+6nz7	G	GITVFGLLIINSAMDV
+5k9k	H	GSAMIFGIVIILES
+4xnq	H	VALFDILTGGWFDP
+6ocb	H	GTEDLGYCSSGSCPNH
+4o58	H	PSITESHYCLDCAAKDYYYGLDV
+6e3h	H	EFRTQIVLGYFDWLEGNAFDM
+4r8w	H	DKVQGRVEVGSGGRHDY
+5w0d	B	DLTLMYVHSSGWERGVYYYYGMDV
+6e56	G	SSNYYGSGSYSPDDYYHMDV
+6q0l	H	APPYCTSASCPDDYYYYYMDV
+5gjs	H	EEHITFGGVIVRY
+5vag	C	DPSFWAAEYFQH
+6lxi	C	DLQDTPMVDRIIGSYYYYNGLDV
+5w6g	H	SYVDNWHAGLHWFDS
+3gbn	H	HMGYQVRETMDV
