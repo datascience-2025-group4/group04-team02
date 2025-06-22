@@ -71,4 +71,14 @@ human structures (human), influenza viruses (influenza), SARS-CoV-2 (sars_cov2))
 
 - Shows how many rows and columns the new table has and displays some column names.
 
-- Saves the new table under the name all_data.tsv as a file (in the current folder).
+- Saves the new table under the name all_data.tsv as a file (in the current folder)
+
+---
+
+## Calculate relative amino acid abundance
+
+- This script calculates relative abundances of amino acids in the three CDR regions (CDR\_H1, CDR\_H2, CDR\_H3) for each antibody.
+
+- Instead of just looking at the absolute number (e.g. how often “A” occurs), it is calculated
+
+
