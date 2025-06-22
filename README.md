@@ -4,10 +4,63 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 
 
 
-# summary_all_data.ipynb
+
+
+
+
+
+## 01a_filter_summary_data.ipynb
+
+Filtered summary data from ag_ab dataframe
+--> to only download pdb files we actually need and want and not all of them
+
+- Loads a file** (`ab_ag.tsv`) with information about antibody-antigen structures
+
+- Keep only certain columns, e.g. PDB ID, chain info, species, resolution etc.
+
+- Removes all rows with missing values** (NaNs)
+
+- Filters for classical antibodies** - i.e. no scFv (single-chain fragment variable)
+
+- Keep only entries with high resolution** (≤ 3.0 Å), i.e. well-resolved structures.
+
+- Gets all unique PDB IDs** from the filtered data.
+
+- Saves these PDB IDs as a list in a new file `pdb_ids.csv`.
+
+# create pdb lists with unique pdbs for influenza, human and sars cov2 Explanation
+
+= Extract SARS-CoV-2/homo sapiens/and influenza A-specific PDB IDs from antibody data
+
+ Three consecutive codes which create three dataframes with the PDB IDs for each species.
+
+- Filters all rows containing the respective species in the antigen_species column
+
+- Uses the previously cleaned DataFrame (df_filtered), in which: no scFv are contained, no NaNs occur, only structures with resolution ≤ 3.0 Å are contained.
+
+- Retrieves all unique PDB IDs from specific subset
+
+- Saves these PDB IDs in a new CSV file
+
+- The generated file contains: one column: pdb containing the IDs
+
+
+
+
+## 04_compare_all.ipynb
+
+
+
+
+
+
+
+
+
+
+## summary_all_data.ipynb
 
 Merging CDR sequence data
-
 
 - Loads three data sets with antibody information (each against:
 human structures (human), influenza viruses (influenza), SARS-CoV-2 (sars_cov2)).
