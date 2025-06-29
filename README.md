@@ -45,6 +45,24 @@ Filtered summary data from ag_ab dataframe
 - The generated file contains: one column: pdb containing the IDs
 
 
+# 03 Analysis of Amino Acid Distribution in CDR Regions of Different Antibody Groups
+
+This Jupyter Notebook analyzes the **amino acid distributions in the complementarity-determining regions (CDR-H1, CDR-H2, CDR-H3)** of antibodies targeting different antigens (SARS-CoV-2, Influenza, and human-specific targets). The goal is to identify potentially characteristic differences between these groups.
+
+## Approach
+
+1. **Calculation of amino acid distributions:**
+   - For each CDR region, the relative frequency of each amino acid was calculated.
+   - This was done separately for each antigen source: `Corona`, `Influenza`, and `Human`.
+
+2. **Visualization:**
+   - Grouped bar plots display the amino acid distributions per region and antigen group.
+
+3. **Statistical significance analysis:**
+   - The **Mann–Whitney U test** was used to compare distributions between groups.
+   - p-values were adjusted using the **Benjamini–Hochberg correction**.
+   - Results were visualized as a heatmap using `-log10(adjusted p-value)`.
+   - In the heatmap, differences with **–log₁₀(adjusted p) > 1.3** are considered statistically significant, as this corresponds to an **adjusted p-value < 0.05**.
 
 
 ## 04_compare_all.ipynb
