@@ -1,9 +1,0 @@
-.DS_Store
-data/*/
-PDB/
-Datensätze /
-.DS_Store
-
-.venv/
-__pycache__/
-*.pyc
