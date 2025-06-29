@@ -7,7 +7,7 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 
 
 
-
+# Data Cleanup
 
 ## 01a_filter_summary_data.ipynb
 
@@ -44,6 +44,20 @@ Filtered summary data from ag_ab dataframe
 
 - The generated file contains: one column: pdb containing the IDs
 
+## 01b_exploratory-ipynb
+
+- Tests run to see which methods were used to detect different structures
+
+## 02_download_chotia_PDB.ipynb 
+
+- Downloadfunktion: 
+
+- first its checked if the chosen file already exists - if so Download is skipped
+
+
+
+
+- Because we have three different PDB-Directories we make 
 
 # 03 Analysis of Amino Acid Distribution in CDR Regions of Different Antibody Groups
 
