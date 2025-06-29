@@ -59,6 +59,43 @@ Filtered summary data from ag_ab dataframe
 
 - Because we have three different PDB-Directories we make 
 
+# 03_aa_composition.ipynb (Michi)
+-->Analysis of Amino Acid Distribution in CDR Regions of Different Antibody Groups
+
+## Analysis of Amino Acid Distribution
+This Jupyter Notebook analyzes the **amino acid distributions in the complementarity-determining regions (CDR-H1, CDR-H2, CDR-H3)** of antibodies targeting different antigens (SARS-CoV-2, Influenza, and human-specific targets). The goal is to identify potentially characteristic differences between these groups.
+
+### Approach
+
+1. **Calculation of amino acid distributions:**
+   - For each CDR region, the relative frequency of each amino acid was calculated.
+   - This was done separately for each antigen source: `Corona`, `Influenza`, and `Human`.
+
+2. **Visualization:**
+   - Grouped bar plots display the amino acid distributions per region and antigen group.
+
+3. **Statistical significance analysis:**
+   - The **Mann–Whitney U test** was used to compare distributions between groups.
+   - combined dataframe mit all the results from `Mann-Whitney U` test was made
+   - p-values were adjusted using the **Benjamini–Hochberg correction**.
+   - Results were visualized as a heatmap using `-log10(adjusted p-value)`.
+   - In the heatmap, differences with **–log₁₀(adjusted p) > 1.3** are considered statistically significant, as this corresponds to an **adjusted p-value < 0.05**.
+
+
+## Analysis of Amino Acid Property Groups
+In addition to analyzing the distribution of individual amino acids, the residues were grouped into five chemically and functionally relevant categories:
+
+- **Nonpolar (hydrophobic)**: A, V, L, I, M, P, G  
+- **Polar (hydrophilic)**: S, T, N, Q, C  
+- **Basic**: K, R, H  
+- **Acidic**: D, E  
+- **Aromatic**: F, W, Y
+
+For each CDR region and antigen group (`Corona`, `Influenza`, `Human`), the **summed relative frequency** of each property group was calculated.
+
+### Visualization:
+- Grouped bar plots were used to compare the distribution of amino acid property classes across antibody groups.
+ 
 
 
 ## 04_compare_all.ipynb
