@@ -9,23 +9,17 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 
 # Data Cleanup
 
-## 01a_filter_summary_data.ipynb
+## 01a_filter_summary_data.ipynb (Michi & Lotta)
 
 Filtered summary data from ag_ab dataframe
 --> to only download pdb files we actually need and want and not all of them
 
-- Loads a file** (`ab_ag.tsv`) with information about antibody-antigen structures
-
+- Loads a file (`ab_ag.tsv`) with information about antibody-antigen structures
 - Keep only certain columns, e.g. PDB ID, chain info, species, resolution etc.
-
-- Removes all rows with missing values** (NaNs)
-
-- Filters for classical antibodies** - i.e. no scFv (single-chain fragment variable)
-
-- Keep only entries with high resolution** (≤ 3.0 Å), i.e. well-resolved structures.
-
-- Gets all unique PDB IDs** from the filtered data.
-
+- Removes all rows with missing values (NaNs)
+- Filters for classical antibodies - i.e. no scFv (single-chain fragment variable)
+- Keep only entries with high resolution (≤ 3.0 Å), i.e. well-resolved structures.
+- Gets all unique PDB IDs from the filtered data.
 - Saves these PDB IDs as a list in a new file `pdb_ids.csv`.
 
 # create pdb lists with unique pdbs for influenza, human and sars cov2 Explanation
