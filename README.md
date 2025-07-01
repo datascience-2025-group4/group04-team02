@@ -92,7 +92,24 @@ For each CDR region and antigen group (`Corona`, `Influenza`, `Human`), the **su
  
 
 
-## 04_compare_all.ipynb
+## 04_compare_all.ipynb (Lotta)
+
+# Comparison of the biophysical characteristics of CDR-H3, H2 and H3 between the individual species
+
+# 1.
+This code uses ANOVA to test for significant differences in the physicochemical properties of CDR regions between antibodies targeting SARS-CoV-2, Influenza, and human antibody types.
+
+# 2.
+Following a significant ANOVA result, the Tukey-HSD (Honest Significant Difference) test is applied to determine which specific groups differ significantly.
+
+# 3.
+This section visualizes the Tukey-HSD results as a confidence interval plot. Each group comparison is represented by a horizontal line, with significant differences highlighted in red. The vertical line at x = 0 indicates the threshold for no significant difference.
+
+=> All analyses were conducted separately for the CDR regions H1, H2, and H3 to investigate differences in structural properties depending on the antibody source.
+
+# Compare lengths
+
+
 
 
 
