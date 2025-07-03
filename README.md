@@ -23,11 +23,13 @@ To run our code, first load the dataset specified below (ab_ag.tsv: a dataset de
 The dataset contains information about heavy-light chain pairing in a PDB structure combined with the corresponding antigen.
 To run our code, our repository must be loaded from top to bottom.
 
-1. `data cleanup`
+1. `data exploration` Frage wo und ob wir das hier mit einbegreifen @michi??
+
+2. `data cleanup`
 in this folder we have a total of five notebooks to filter and download the data used in our project, add columns to simplify analysis and create lists and DataFrames required later on in our project. 
 Here the content of each notebook will be explained shortly but is explained in more detail in the notebooks themselves. 
 
-- `01a_filter_summary_data.ipynb` 
+- `01a_filter_summary_data.ipynb` @lóa, michi, lotta
 In this notebook we will filter the data to our requirements. 
 Data from `ab_ag.tsv` is imported into a DataFrame and filtered to only keep relevant columns (like `pdb`, `Hchain`, `antigen_chain`, etc.), non-scFv antibodies, 
 structures with resolution ≤ 3.25 Ångström, drop any rows where critical columns are missing and remove entries of specific PDB IDs that don't exist on SAbDaB. 
@@ -40,11 +42,28 @@ This notebook is dedicated to the exploration of the dataset in order to make de
 - `02_download_chotia_PDB.ipynb`
 In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
 
+- `03a_cdr_h_seq_influenza.ipynb` @michi 
+
+- `03b_cdr_h_seq_human.ipynb` @michi 
+
+- `03c_cdr_h_seq_corona.ipynb` @michi 
+
+- `04_extend-existing-data.ipynb`@lotta
+
+- `05_summary_all_data.ipynb`@lotta
 
 
+3. `dataanalysis`
+in this folder we did all our analysis on the data, we split the folder to three subfolders, according to the typ of analysis. 
 
-2.
-3.
+in subfolder `01_length` we analysed differences in the lenghts of the CDR-regions of different antibodies
+
+in subfolder `02_sequence` we analysed differences in the aminoacid composition and sequence of antibodies
+
+in subfolder `03_contacts` we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
+
+3. `generated``
+this is where we save all our generated DataFrames and lists
 .
 .
 .
