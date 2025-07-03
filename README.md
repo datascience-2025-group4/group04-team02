@@ -52,8 +52,10 @@ This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered
 This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against SarsCov2 proteins
 
 - `04_extend-existing-data.ipynb`@lotta
+In this notebook, CDR sequence files are systematically expanded. First, the sequences are checked for validity and the frequency of the individual amino acids is determined. Then average properties such as hydrophobicity, mass, charge and polarity are calculated and added for each CDR region. Finally, the length of each CDR sequence is determined and integrated into the original files as new information.
 
 - `05_summary_all_data.ipynb`@lotta
+In this notebook, three data sets from three different sources (human, influenza, SARS-CoV-2) are merged and supplemented by an sorce column. The relative frequency of the 20 amino acids is then calculated for each CDR region. The results are saved in all_data.tsv and in all_data_normalozed.tsv and displayed for control purposes.
 
 
 3. `dataanalysis`
@@ -62,11 +64,13 @@ in this folder we did all our analysis on the data, we split the folder to three
 in subfolder `01_length` we analysed differences in the lenghts of the CDR-regions of different antibodies
 
 in subfolder `02_sequence` we analysed differences in the aminoacid composition and sequence of antibodies
+
 - `01_aa_composytion.ipynb` @Michi
 This Jupyter Notebook analyzes the amino acid distributions in the complementarity-determining regions (CDR-H1, CDR-H2, CDR-H3) of antibodies targeting different antigens. The goal is to identify potentially characteristic differences between these groups.
 
 
 - `02_compare_all.ipynb` @Lotta
+In this notebook, antibodies directed against different antigens (SARS-CoV-2, influenza and human) are analyzed. It is investigated whether the properties of the CDR regions (charge, mass, polarity, hydrophobicity and length) differ between the groups. Statistical tests such as the Shapiro-Wilk test, Levene test, Welch-ANOVA and the Games-Howell method are used to test whether these differences are significant.
 
 - `03_pairwise_alignment.ipynb` @Clara
 
@@ -207,20 +211,6 @@ For each CDR region and antigen group (`Corona`, `Influenza`, `Human`), the **su
  
 
 
-## 04_compare_all.ipynb (Lotta)
-
-# Comparison of the biophysical characteristics of CDR-H3, H2 and H3 between the individual species
-
-# 1.
-This code uses ANOVA to test for significant differences in the physicochemical properties of CDR regions between antibodies targeting SARS-CoV-2, Influenza, and human antibody types.
-
-# 2.
-Following a significant ANOVA result, the Tukey-HSD (Honest Significant Difference) test is applied to determine which specific groups differ significantly.
-
-# 3.
-This section visualizes the Tukey-HSD results as a confidence interval plot. Each group comparison is represented by a horizontal line, with significant differences highlighted in red. The vertical line at x = 0 indicates the threshold for no significant difference.
-
-=> All analyses were conducted separately for the CDR regions H1, H2, and H3 to investigate differences in structural properties depending on the antibody source.
 
 # Compare lengths
 
