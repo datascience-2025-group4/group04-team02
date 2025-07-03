@@ -43,10 +43,13 @@ This notebook is dedicated to the exploration of the dataset in order to make de
 In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
 
 - `03a_cdr_h_seq_influenza.ipynb` @michi 
+This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Influenza proteins
 
 - `03b_cdr_h_seq_human.ipynb` @michi 
+This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Human proteins
 
 - `03c_cdr_h_seq_corona.ipynb` @michi 
+This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against SarsCov2 proteins
 
 - `04_extend-existing-data.ipynb`@lotta
 
@@ -59,6 +62,21 @@ in this folder we did all our analysis on the data, we split the folder to three
 in subfolder `01_length` we analysed differences in the lenghts of the CDR-regions of different antibodies
 
 in subfolder `02_sequence` we analysed differences in the aminoacid composition and sequence of antibodies
+- `01_aa_composytion.ipynb` @Michi
+This Jupyter Notebook analyzes the amino acid distributions in the complementarity-determining regions (CDR-H1, CDR-H2, CDR-H3) of antibodies targeting different antigens. The goal is to identify potentially characteristic differences between these groups.
+
+
+- `02_compare_all.ipynb` @Lotta
+
+- `03_pairwise_alignment.ipynb` @Clara
+
+- `04_nw_alignment.ipynb` @Clara
+
+- `05_PCA.ipynb` @Michi
+
+- `06_logistic_regression`@Michi
+
+
 
 in subfolder `03_contacts` we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
