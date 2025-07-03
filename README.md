@@ -62,6 +62,9 @@ in subfolder `02_sequence` we analysed differences in the aminoacid composition 
 
 in subfolder `03_contacts` we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
+- `01_find_atomic_contacts.ipynb`
+
+
 3. `generated``
 this is where we save all our generated DataFrames and lists
 .
