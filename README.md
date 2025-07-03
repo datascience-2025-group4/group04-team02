@@ -16,12 +16,33 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 - Enno Schäfer (enno.schaefer@uni-heidelberg.de)
 
 ## Research Question
-- The aim of our project is to investigate whether the structural features of the CDR regions differ depending on the type of antigen. More specifically, we are asking whether there are any characteristic patterns in the CDRs that distinguish between antibodies that target different classes of antigen.
+- The aim of our project is to investigate whether the structural features of the CDR regions differ depending on the type of antigen. More specifically, we looking for characteristic patterns in the CDRs that distinguish between antibodies that target different classes of antigen.
 
 ## Structure of the repository
-To run our program, first load the dataset specified below (ab_ag.tsv: a dataset derived from SAbDab). It contains information about heavy-light chain pairing in a PDB structure combined with the corresponding antigen.
-To load the dataset, our repository must be loaded from top to bottom.
-1.
+To run our code, first load the dataset specified below (ab_ag.tsv: a dataset derived from SAbDab) into a folder named `data`, the folder should be a direct subdirectory of group04-team02. 
+The dataset contains information about heavy-light chain pairing in a PDB structure combined with the corresponding antigen.
+To run our code, our repository must be loaded from top to bottom.
+
+1. `data cleanup`
+in this folder we have a total of five notebooks to filter and download the data used in our project, add columns to simplify analysis and create lists and DataFrames required later on in our project. 
+Here the content of each notebook will be explained shortly but is explained in more detail in the notebooks themselves. 
+
+- `01a_filter_summary_data.ipynb` 
+In this notebook we will filter the data to our requirements. 
+Data from `ab_ag.tsv` is imported into a DataFrame and filtered to only keep relevant columns (like `pdb`, `Hchain`, `antigen_chain`, etc.), non-scFv antibodies, 
+structures with resolution ≤ 3.25 Ångström, drop any rows where critical columns are missing and remove entries of specific PDB IDs that don't exist on SAbDaB. 
+
+To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
+
+- `01b_exploratory`
+This notebook is dedicated to the exploration of the dataset in order to make desicions regarding filtering.
+
+- `02_download_chotia_PDB.ipynb`
+In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
+
+
+
+
 2.
 3.
 .
