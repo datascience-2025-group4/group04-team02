@@ -3,6 +3,58 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 
 
 
+# Topic 04: Antibody - Antigen interactions
+
+# Group 02: Michaela Gabor, Lotta Gambert, Clara Zajac, Lóa Zink
+
+# Supervisors: 
+- Prof. Dominik Niopek (dominik.niopek@uni-heidelberg.de)
+- Jan Mathony (jan.mathony@uni-heidelberg.de) 
+- Benedict Wolf (benedict.wolf@uni-heidelberg.de)
+
+# Tutor: 
+- Enno Schäfer (enno.schaefer@uni-heidelberg.de)
+
+## Research Question
+- The aim of our project is to investigate whether the structural features of the CDR regions differ depending on the type of antigen. More specifically, we are asking whether there are any characteristic patterns in the CDRs that distinguish between antibodies that target different classes of antigen.
+
+## Structure of the repository
+To run our program, first load the dataset specified below (ab_ag.tsv: a dataset derived from SAbDab). It contains information about heavy-light chain pairing in a PDB structure combined with the corresponding antigen.
+To load the dataset, our repository must be loaded from top to bottom.
+1.
+2.
+3.
+.
+.
+.
+
+
+
+
+
+
+
+
+
+## Convering the mandatory aspects of the project
+Our project was supposed to contain the following elements. Here we,we lost which sub-topic covers which mandatory aspect:
+
+- descriptive statistics about the datasets
+- graphical representations
+- dimension reduction analysis (PCA, clustering or k-means)
+- statistical tests (t-test, proportion tests etc)
+- linear regression analysis, either uni- or multivariate
+
+
+
+## Additional files and folders
+
+
+
+## Download the datasets worked on
+
+
+
 
 
 
