@@ -1,0 +1,10 @@
+feature	A	B	pval	hedges
+CDR_H1_mean_hydrophobicity	human	influenza	3.9415629584871326e-05	0.5277996230322521
+CDR_H1_mean_polarity	human	influenza	2.4077040361447644e-09	-0.7534338229417333
+CDR_H1_mean_mass	human	influenza	3.0932198136213174e-07	0.7191570758040564
+cdr_h1_length	human	influenza	4.1517083844144764e-06	-0.8498877804762296
+CDR_H2_mean_hydrophobicity	human	influenza	0.006743128468793991	-0.3717680475228552
+CDR_H2_mean_charge	human	influenza	0.008367880922923954	-0.2962238105576677
+cdr_h2_length	human	influenza	0.00024580372130511563	0.4694374997981626
+CDR_H3_mean_mass	human	influenza	0.02340064942226938	0.20340171791425285
+cdr_h3_length	human	influenza	0.0	-1.5994631236601404
