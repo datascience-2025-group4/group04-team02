@@ -7,3 +7,4 @@ Datensätze /
 .venv/
 __pycache__/
 *.pyc
+archive
