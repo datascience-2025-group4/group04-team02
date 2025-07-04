@@ -287,7 +287,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8ved	heavy	H	53	 	THR	0.0	0.0
 8ved	heavy	H	54	 	SER	0.0	0.0
 8ved	heavy	H	55	 	GLY	0.0	0.0
-8ved	heavy	H	56	 	ASN	3.7920473	1.0
+8ved	heavy	H	56	 	ASN	3.7920475	1.0
 8ved	heavy	H	57	 	THR	0.0	0.0
 8ved	heavy	H	58	 	LYS	0.0	0.0
 8ved	heavy	H	59	 	SER	0.0	0.0
@@ -3821,7 +3821,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 9bj3	heavy	C	25	 	SER	0.0	0.0
 9bj3	heavy	C	26	 	GLY	0.0	0.0
 9bj3	heavy	C	27	 	GLY	0.0	0.0
-9bj3	heavy	C	28	 	THR	3.7598002	1.0
+9bj3	heavy	C	28	 	THR	3.7598	1.0
 9bj3	heavy	C	29	 	PHE	0.0	0.0
 9bj3	heavy	C	30	 	ILE	3.4328601	1.0
 9bj3	heavy	C	31	 	ASN	3.1582863	1.0
@@ -6681,7 +6681,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 9goy	heavy	H	53	 	ARG	0.0	0.0
 9goy	heavy	H	54	 	LEU	3.5554857	1.0
 9goy	heavy	H	55	 	ASP	0.0	0.0
-9goy	heavy	H	56	 	ALA	3.635589	1.0
+9goy	heavy	H	56	 	ALA	3.6355891	1.0
 9goy	heavy	H	57	 	GLU	0.0	0.0
 9goy	heavy	H	58	 	HIS	2.9692006	1.0
 9goy	heavy	H	59	 	TYR	0.0	0.0
@@ -7422,7 +7422,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8t6m	heavy	B	30	 	ASN	0.0	0.0
 8t6m	heavy	B	31	 	THR	3.2812197	1.0
 8t6m	heavy	B	31	A	SER	0.0	0.0
-8t6m	heavy	B	31	B	GLY	3.5374947	1.0
+8t6m	heavy	B	31	B	GLY	3.5374944	1.0
 8t6m	heavy	B	32	 	VAL	0.0	0.0
 8t6m	heavy	B	33	 	ALA	0.0	0.0
 8t6m	heavy	B	34	 	VAL	0.0	0.0
@@ -7905,7 +7905,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8s6z	heavy	A	47	 	TRP	3.6076336	1.0
 8s6z	heavy	A	48	 	VAL	0.0	0.0
 8s6z	heavy	A	49	 	SER	0.0	0.0
-8s6z	heavy	A	50	 	ALA	3.462145	1.0
+8s6z	heavy	A	50	 	ALA	3.4621453	1.0
 8s6z	heavy	A	51	 	ILE	0.0	0.0
 8s6z	heavy	A	52	 	SER	2.952657	1.0
 8s6z	heavy	A	52	A	GLY	3.3404334	1.0
@@ -10835,7 +10835,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 9bdf	heavy	B	25	 	SER	0.0	0.0
 9bdf	heavy	B	26	 	GLY	3.607685	1.0
 9bdf	heavy	B	27	 	GLY	0.0	0.0
-9bdf	heavy	B	28	 	PHE	3.962962	1.0
+9bdf	heavy	B	28	 	PHE	3.9629622	1.0
 9bdf	heavy	B	29	 	VAL	0.0	0.0
 9bdf	heavy	B	30	 	THR	0.0	0.0
 9bdf	heavy	B	31	 	ARG	2.7219548	1.0
@@ -14473,7 +14473,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8wpy	heavy	A	51	 	ILE	0.0	0.0
 8wpy	heavy	A	52	 	SER	0.0	0.0
 8wpy	heavy	A	52	A	THR	0.0	0.0
-8wpy	heavy	A	53	 	TYR	3.6175556	1.0
+8wpy	heavy	A	53	 	TYR	3.6175554	1.0
 8wpy	heavy	A	54	 	ASN	0.0	0.0
 8wpy	heavy	A	55	 	GLY	0.0	0.0
 8wpy	heavy	A	56	 	ASN	0.0	0.0
@@ -14789,7 +14789,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 9atm	heavy	H	93	 	ALA	0.0	0.0
 9atm	heavy	H	94	 	LYS	0.0	0.0
 9atm	heavy	H	95	 	ASP	0.0	0.0
-9atm	heavy	H	96	 	TYR	3.7774804	1.0
+9atm	heavy	H	96	 	TYR	3.7774806	1.0
 9atm	heavy	H	97	 	TYR	3.7755342	1.0
 9atm	heavy	H	98	 	PRO	3.5644662	1.0
 9atm	heavy	H	99	 	LEU	3.3870049	1.0
@@ -15511,7 +15511,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8keh	heavy	G	47	 	TRP	0.0	0.0
 8keh	heavy	G	48	 	MET	0.0	0.0
 8keh	heavy	G	49	 	GLY	0.0	0.0
-8keh	heavy	G	50	 	VAL	3.8773043	1.0
+8keh	heavy	G	50	 	VAL	3.877304	1.0
 8keh	heavy	G	51	 	ILE	0.0	0.0
 8keh	heavy	G	52	 	ASN	3.646271	1.0
 8keh	heavy	G	52	A	PRO	0.0	0.0
@@ -17152,7 +17152,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8kdt	heavy	H	91	 	TYR	0.0	0.0
 8kdt	heavy	H	92	 	CYS	0.0	0.0
 8kdt	heavy	H	93	 	ALA	0.0	0.0
-8kdt	heavy	H	94	 	ARG	3.849368	1.0
+8kdt	heavy	H	94	 	ARG	3.8493683	1.0
 8kdt	heavy	H	95	 	ASP	0.0	0.0
 8kdt	heavy	H	96	 	LEU	2.5446763	1.0
 8kdt	heavy	H	97	 	PHE	3.4891217	1.0
@@ -17910,7 +17910,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8keq	heavy	E	52	 	ASN	0.0	0.0
 8keq	heavy	E	52	A	PRO	0.0	0.0
 8keq	heavy	E	53	 	ASP	0.0	0.0
-8keq	heavy	E	54	 	ALA	3.4653482	1.0
+8keq	heavy	E	54	 	ALA	3.4653485	1.0
 8keq	heavy	E	55	 	GLY	0.0	0.0
 8keq	heavy	E	56	 	SER	3.218804	1.0
 8keq	heavy	E	57	 	VAL	3.2116432	1.0
@@ -18838,7 +18838,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8sdh	light	L	48	 	ILE	0.0	0.0
 8sdh	light	L	49	 	TYR	0.0	0.0
 8sdh	light	L	50	 	TYR	3.4365537	1.0
-8sdh	light	L	51	 	PRO	3.8516252	1.0
+8sdh	light	L	51	 	PRO	3.8516254	1.0
 8sdh	light	L	52	 	SER	0.0	0.0
 8sdh	light	L	53	 	ASP	0.0	0.0
 8sdh	light	L	54	 	ARG	0.0	0.0
@@ -21603,7 +21603,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8xsj	light	L	50	 	ASP	3.1930714	1.0
 8xsj	light	L	51	 	ALA	0.0	0.0
 8xsj	light	L	52	 	SER	0.0	0.0
-8xsj	light	L	53	 	ASN	3.929411	1.0
+8xsj	light	L	53	 	ASN	3.9294112	1.0
 8xsj	light	L	54	 	LEU	3.7320333	1.0
 8xsj	light	L	55	 	GLU	3.192012	1.0
 8xsj	light	L	56	 	THR	2.6116424	1.0
@@ -23228,10 +23228,10 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8tv1	light	E	89	 	GLN	0.0	0.0
 8tv1	light	E	90	 	GLN	0.0	0.0
 8tv1	light	E	91	 	GLY	0.0	0.0
-8tv1	light	E	92	 	SER	3.9774666	1.0
+8tv1	light	E	92	 	SER	3.9774668	1.0
 8tv1	light	E	93	 	ALA	3.117721	1.0
 8tv1	light	E	94	 	PRO	0.0	0.0
-8tv1	light	E	96	 	PHE	3.8129797	1.0
+8tv1	light	E	96	 	PHE	3.8129795	1.0
 8tv1	light	E	97	 	THR	0.0	0.0
 8tv1	light	E	98	 	PHE	0.0	0.0
 8tv1	light	E	99	 	GLY	0.0	0.0
@@ -27400,7 +27400,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8u08	light	L	127	 	GLN	0.0	0.0
 8u08	light	L	128	 	ALA	0.0	0.0
 8v4f	heavy	B	1	 	ASP	0.0	0.0
-8v4f	heavy	B	2	 	VAL	3.7618692	1.0
+8v4f	heavy	B	2	 	VAL	3.7618694	1.0
 8v4f	heavy	B	3	 	HIS	0.0	0.0
 8v4f	heavy	B	4	 	LEU	0.0	0.0
 8v4f	heavy	B	5	 	VAL	0.0	0.0
@@ -29980,7 +29980,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8vye	heavy	B	62	 	SER	0.0	0.0
 8vye	heavy	B	63	 	VAL	0.0	0.0
 8vye	heavy	B	64	 	LYS	0.0	0.0
-8vye	heavy	B	65	 	GLY	3.984434	1.0
+8vye	heavy	B	65	 	GLY	3.9844337	1.0
 8vye	heavy	B	66	 	ARG	0.0	0.0
 8vye	heavy	B	67	 	PHE	0.0	0.0
 8vye	heavy	B	68	 	THR	0.0	0.0
@@ -30017,7 +30017,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8vye	heavy	B	96	 	LYS	0.0	0.0
 8vye	heavy	B	97	 	ASP	3.476882	1.0
 8vye	heavy	B	98	 	SER	2.754758	1.0
-8vye	heavy	B	99	 	ARG	3.5815961	1.0
+8vye	heavy	B	99	 	ARG	3.5815964	1.0
 8vye	heavy	B	100	 	TYR	0.0	0.0
 8vye	heavy	B	100	A	SER	0.0	0.0
 8vye	heavy	B	100	B	GLY	3.310535	1.0
@@ -30398,7 +30398,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8vyg	heavy	A	27	 	TYR	0.0	0.0
 8vyg	heavy	A	28	 	PRO	3.6494029	1.0
 8vyg	heavy	A	29	 	PHE	0.0	0.0
-8vyg	heavy	A	30	 	THR	3.4811206	1.0
+8vyg	heavy	A	30	 	THR	3.4811208	1.0
 8vyg	heavy	A	31	 	SER	0.0	0.0
 8vyg	heavy	A	32	 	TYR	0.0	0.0
 8vyg	heavy	A	33	 	GLY	0.0	0.0
@@ -30632,7 +30632,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8iow	heavy	H	30	 	ASP	0.0	0.0
 8iow	heavy	H	31	 	ASP	2.3541415	1.0
 8iow	heavy	H	32	 	TYR	3.7426603	1.0
-8iow	heavy	H	33	 	ALA	3.5403779	1.0
+8iow	heavy	H	33	 	ALA	3.540378	1.0
 8iow	heavy	H	34	 	MET	0.0	0.0
 8iow	heavy	H	35	 	HIS	0.0	0.0
 8iow	heavy	H	36	 	TRP	0.0	0.0
@@ -32787,7 +32787,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8sit	heavy	H	100	I	PRO	0.0	0.0
 8sit	heavy	H	100	J	GLY	0.0	0.0
 8sit	heavy	H	100	K	PHE	0.0	0.0
-8sit	heavy	H	101	 	ASP	3.812487	1.0
+8sit	heavy	H	101	 	ASP	3.8124871	1.0
 8sit	heavy	H	102	 	TYR	3.1614785	1.0
 8sit	heavy	H	103	 	TRP	0.0	0.0
 8sit	heavy	H	104	 	GLY	0.0	0.0
@@ -36974,7 +36974,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7y3o	light	L	24	 	ARG	0.0	0.0
 7y3o	light	L	25	 	ALA	0.0	0.0
 7y3o	light	L	26	 	SER	0.0	0.0
-7y3o	light	L	27	 	GLN	3.4086876	1.0
+7y3o	light	L	27	 	GLN	3.4086878	1.0
 7y3o	light	L	28	 	SER	0.0	0.0
 7y3o	light	L	29	 	ILE	0.0	0.0
 7y3o	light	L	30	 	SER	0.0	0.0
@@ -37859,7 +37859,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hpu	light	L	93	 	ASP	2.8698714	1.0
 8hpu	light	L	94	 	SER	0.0	0.0
 8hpu	light	L	95	 	PRO	0.0	0.0
-8hpu	light	L	96	 	PHE	3.7062528	1.0
+8hpu	light	L	96	 	PHE	3.706253	1.0
 8hpu	light	L	97	 	THR	0.0	0.0
 8hpu	light	L	98	 	PHE	0.0	0.0
 8hpu	light	L	99	 	GLY	0.0	0.0
@@ -38625,7 +38625,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8f2j	light	B	48	 	ILE	0.0	0.0
 8f2j	light	B	49	 	TYR	0.0	0.0
 8f2j	light	B	50	 	GLN	0.0	0.0
-8f2j	light	B	51	 	ASP	3.232542	1.0
+8f2j	light	B	51	 	ASP	3.2325423	1.0
 8f2j	light	B	52	 	SER	0.0	0.0
 8f2j	light	B	53	 	LYS	0.0	0.0
 8f2j	light	B	54	 	ARG	0.0	0.0
@@ -39042,7 +39042,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hws	heavy	H	96	 	LEU	3.635986	1.0
 8hws	heavy	H	97	 	GLY	0.0	0.0
 8hws	heavy	H	98	 	PRO	3.5190318	1.0
-8hws	heavy	H	99	 	TYR	3.8833678	1.0
+8hws	heavy	H	99	 	TYR	3.883368	1.0
 8hws	heavy	H	100	 	GLY	0.0	0.0
 8hws	heavy	H	100	A	MET	0.0	0.0
 8hws	heavy	H	101	 	ASP	0.0	0.0
@@ -40817,7 +40817,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8ez7	heavy	H	100	E	ASN	3.4799447	1.0
 8ez7	heavy	H	100	F	TRP	3.202079	1.0
 8ez7	heavy	H	100	G	SER	0.0	0.0
-8ez7	heavy	H	100	H	VAL	3.651028	1.0
+8ez7	heavy	H	100	H	VAL	3.6510277	1.0
 8ez7	heavy	H	100	I	PHE	0.0	0.0
 8ez7	heavy	H	100	J	LEU	0.0	0.0
 8ez7	heavy	H	101	 	ASP	0.0	0.0
@@ -42541,7 +42541,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8oxy	heavy	B	25	 	SER	0.0	0.0
 8oxy	heavy	B	26	 	GLY	0.0	0.0
 8oxy	heavy	B	27	 	PHE	0.0	0.0
-8oxy	heavy	B	28	 	THR	3.8163073	1.0
+8oxy	heavy	B	28	 	THR	3.816307	1.0
 8oxy	heavy	B	29	 	PHE	0.0	0.0
 8oxy	heavy	B	30	 	ASP	2.6541867	1.0
 8oxy	heavy	B	31	 	ASP	1.9440123	1.0
@@ -43040,7 +43040,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8tp2	heavy	H	28	 	SER	0.0	0.0
 8tp2	heavy	H	29	 	LEU	0.0	0.0
 8tp2	heavy	H	30	 	SER	3.6301618	1.0
-8tp2	heavy	H	31	 	THR	3.7825592	1.0
+8tp2	heavy	H	31	 	THR	3.782559	1.0
 8tp2	heavy	H	32	 	HIS	0.0	0.0
 8tp2	heavy	H	33	 	TYR	2.8946111	1.0
 8tp2	heavy	H	34	 	TRP	0.0	0.0
@@ -44058,7 +44058,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8tp9	heavy	D	100	C	GLY	3.399815	1.0
 8tp9	heavy	D	100	D	ARG	2.844796	1.0
 8tp9	heavy	D	100	E	ASN	0.0	0.0
-8tp9	heavy	D	100	F	TYR	3.6172981	1.0
+8tp9	heavy	D	100	F	TYR	3.617298	1.0
 8tp9	heavy	D	100	G	TYR	0.0	0.0
 8tp9	heavy	D	100	H	LEU	0.0	0.0
 8tp9	heavy	D	101	 	ASP	0.0	0.0
@@ -45120,7 +45120,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8gy5	light	B	93	 	ASN	3.2416666	1.0
 8gy5	light	B	94	 	THR	2.892426	1.0
 8gy5	light	B	95	 	PRO	0.0	0.0
-8gy5	light	B	96	 	PHE	3.6601293	1.0
+8gy5	light	B	96	 	PHE	3.660129	1.0
 8gy5	light	B	97	 	THR	0.0	0.0
 8gy5	light	B	98	 	PHE	0.0	0.0
 8gy5	light	B	99	 	GLY	0.0	0.0
@@ -47777,7 +47777,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7trh	heavy	H	94	 	ARG	0.0	0.0
 7trh	heavy	H	95	 	LEU	0.0	0.0
 7trh	heavy	H	96	 	LEU	0.0	0.0
-7trh	heavy	H	97	 	ASP	3.3408127	1.0
+7trh	heavy	H	97	 	ASP	3.3408124	1.0
 7trh	heavy	H	98	 	SER	3.6248837	1.0
 7trh	heavy	H	99	 	ILE	0.0	0.0
 7trh	heavy	H	100	 	VAL	3.195759	1.0
@@ -51668,7 +51668,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8smt	light	B	48	 	ILE	0.0	0.0
 8smt	light	B	49	 	TYR	0.0	0.0
 8smt	light	B	50	 	GLN	0.0	0.0
-8smt	light	B	51	 	ASP	3.232542	1.0
+8smt	light	B	51	 	ASP	3.2325423	1.0
 8smt	light	B	52	 	SER	0.0	0.0
 8smt	light	B	53	 	LYS	0.0	0.0
 8smt	light	B	54	 	ARG	0.0	0.0
@@ -51710,7 +51710,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8smt	light	B	90	 	ALA	0.0	0.0
 8smt	light	B	91	 	TRP	0.0	0.0
 8smt	light	B	92	 	ASP	0.0	0.0
-8smt	light	B	93	 	SER	3.7813983	1.0
+8smt	light	B	93	 	SER	3.7813985	1.0
 8smt	light	B	94	 	SER	0.0	0.0
 8smt	light	B	95	 	THR	0.0	0.0
 8smt	light	B	95	A	SER	0.0	0.0
@@ -56149,7 +56149,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8h08	light	J	102	 	THR	0.0	0.0
 8h08	light	J	103	 	LYS	0.0	0.0
 8h08	light	J	104	 	LEU	0.0	0.0
-7xsc	heavy	A	2	 	VAL	3.3621504	1.0
+7xsc	heavy	A	2	 	VAL	3.3621507	1.0
 7xsc	heavy	A	3	 	GLN	0.0	0.0
 7xsc	heavy	A	4	 	LEU	0.0	0.0
 7xsc	heavy	A	5	 	VAL	0.0	0.0
@@ -57997,7 +57997,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7st5	light	L	127	 	SER	0.0	0.0
 7st5	light	L	128	 	GLY	0.0	0.0
 8bse	heavy	H	1	 	GLU	0.0	0.0
-8bse	heavy	H	2	 	VAL	3.7018163	1.0
+8bse	heavy	H	2	 	VAL	3.701816	1.0
 8bse	heavy	H	3	 	LEU	0.0	0.0
 8bse	heavy	H	4	 	LEU	0.0	0.0
 8bse	heavy	H	5	 	VAL	0.0	0.0
@@ -58777,7 +58777,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hn7	heavy	B	28	 	ALA	3.6407084	1.0
 8hn7	heavy	B	29	 	PHE	0.0	0.0
 8hn7	heavy	B	30	 	SER	0.0	0.0
-8hn7	heavy	B	31	 	THR	3.7843485	1.0
+8hn7	heavy	B	31	 	THR	3.7843482	1.0
 8hn7	heavy	B	32	 	TYR	0.0	0.0
 8hn7	heavy	B	33	 	GLU	0.0	0.0
 8hn7	heavy	B	34	 	MET	0.0	0.0
@@ -60154,7 +60154,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8gs9	light	K	53	 	THR	0.0	0.0
 8gs9	light	K	54	 	LEU	0.0	0.0
 8gs9	light	K	55	 	GLN	0.0	0.0
-8gs9	light	K	56	 	ASN	3.8113499	1.0
+8gs9	light	K	56	 	ASN	3.81135	1.0
 8gs9	light	K	57	 	GLY	0.0	0.0
 8gs9	light	K	58	 	VAL	0.0	0.0
 8gs9	light	K	59	 	PRO	0.0	0.0
@@ -61405,7 +61405,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wnb	light	L	29	 	ILE	3.9109762	1.0
 7wnb	light	L	30	 	SER	3.214826	1.0
 7wnb	light	L	31	 	SER	0.0	0.0
-7wnb	light	L	32	 	HIS	3.757923	1.0
+7wnb	light	L	32	 	HIS	3.7579226	1.0
 7wnb	light	L	33	 	LEU	0.0	0.0
 7wnb	light	L	34	 	ALA	0.0	0.0
 7wnb	light	L	35	 	TRP	0.0	0.0
@@ -62111,7 +62111,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7xj9	light	F	27	 	GLN	0.0	0.0
 7xj9	light	F	28	 	SER	0.0	0.0
 7xj9	light	F	29	 	ILE	0.0	0.0
-7xj9	light	F	30	 	SER	3.447344	1.0
+7xj9	light	F	30	 	SER	3.4473443	1.0
 7xj9	light	F	31	 	SER	0.0	0.0
 7xj9	light	F	32	 	TRP	3.1450694	1.0
 7xj9	light	F	33	 	LEU	0.0	0.0
@@ -65641,7 +65641,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7soe	light	L	27	 	LYS	0.0	0.0
 7soe	light	L	28	 	LEU	0.0	0.0
 7soe	light	L	29	 	GLY	0.0	0.0
-7soe	light	L	30	 	GLU	3.4739609	1.0
+7soe	light	L	30	 	GLU	3.4739606	1.0
 7soe	light	L	31	 	THR	0.0	0.0
 7soe	light	L	32	 	TYR	0.0	0.0
 7soe	light	L	33	 	ALA	0.0	0.0
@@ -65769,7 +65769,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7ru8	heavy	H	49	 	GLY	0.0	0.0
 7ru8	heavy	H	50	 	GLY	0.0	0.0
 7ru8	heavy	H	51	 	ILE	0.0	0.0
-7ru8	heavy	H	52	 	ILE	3.910463	1.0
+7ru8	heavy	H	52	 	ILE	3.9104633	1.0
 7ru8	heavy	H	52	A	PRO	0.0	0.0
 7ru8	heavy	H	53	 	ILE	3.7145164	1.0
 7ru8	heavy	H	54	 	ILE	3.6524708	1.0
@@ -68490,7 +68490,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7x63	light	L	127	 	SER	0.0	0.0
 7x63	light	L	128	 	GLY	0.0	0.0
 7x66	heavy	H	1	 	GLU	0.0	0.0
-7x66	heavy	H	2	 	VAL	3.9150877	1.0
+7x66	heavy	H	2	 	VAL	3.9150875	1.0
 7x66	heavy	H	3	 	GLN	0.0	0.0
 7x66	heavy	H	4	 	LEU	0.0	0.0
 7x66	heavy	H	5	 	VAL	0.0	0.0
@@ -69281,7 +69281,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7u0q	light	F	127	 	SER	0.0	0.0
 7u0q	light	F	128	 	GLY	0.0	0.0
 7u0x	heavy	F	1	 	GLN	0.0	0.0
-7u0x	heavy	F	2	 	VAL	3.6554954	1.0
+7u0x	heavy	F	2	 	VAL	3.6554956	1.0
 7u0x	heavy	F	3	 	GLN	0.0	0.0
 7u0x	heavy	F	4	 	LEU	0.0	0.0
 7u0x	heavy	F	5	 	VAL	0.0	0.0
@@ -72093,7 +72093,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7x8t	heavy	C	61	 	SER	0.0	0.0
 7x8t	heavy	C	62	 	ALA	0.0	0.0
 7x8t	heavy	C	63	 	VAL	0.0	0.0
-7x8t	heavy	C	64	 	LYS	3.9441738	1.0
+7x8t	heavy	C	64	 	LYS	3.9441736	1.0
 7x8t	heavy	C	65	 	GLY	0.0	0.0
 7x8t	heavy	C	66	 	ARG	0.0	0.0
 7x8t	heavy	C	67	 	ALA	0.0	0.0
@@ -73894,7 +73894,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7yxu	heavy	H	53	 	GLY	3.7363327	1.0
 7yxu	heavy	H	54	 	SER	3.5669787	1.0
 7yxu	heavy	H	55	 	GLY	0.0	0.0
-7yxu	heavy	H	56	 	SER	3.7307255	1.0
+7yxu	heavy	H	56	 	SER	3.7307253	1.0
 7yxu	heavy	H	57	 	THR	0.0	0.0
 7yxu	heavy	H	58	 	TYR	3.6977484	1.0
 7yxu	heavy	H	59	 	TYR	0.0	0.0
@@ -74684,7 +74684,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dm3	heavy	H	50	 	GLY	0.0	0.0
 8dm3	heavy	H	51	 	PHE	3.6184375	1.0
 8dm3	heavy	H	52	 	ASP	0.0	0.0
-8dm3	heavy	H	52	A	PRO	3.583544	1.0
+8dm3	heavy	H	52	A	PRO	3.5835443	1.0
 8dm3	heavy	H	53	 	GLU	0.0	0.0
 8dm3	heavy	H	54	 	ASP	0.0	0.0
 8dm3	heavy	H	55	 	GLY	0.0	0.0
@@ -74742,7 +74742,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dm3	heavy	H	100	D	LEU	0.0	0.0
 8dm3	heavy	H	100	E	PHE	3.357075	1.0
 8dm3	heavy	H	100	F	ASP	0.0	0.0
-8dm3	heavy	H	100	G	TYR	3.9358008	1.0
+8dm3	heavy	H	100	G	TYR	3.9358006	1.0
 8dm3	heavy	H	100	H	TYR	0.0	0.0
 8dm3	heavy	H	100	I	TYR	0.0	0.0
 8dm3	heavy	H	100	J	GLY	0.0	0.0
@@ -75113,7 +75113,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dm4	light	L	106	 	ILE	0.0	0.0
 8dm4	light	L	107	 	LYS	0.0	0.0
 8hc2	heavy	H	1	 	GLU	3.846196	1.0
-8hc2	heavy	H	2	 	VAL	3.628851	1.0
+8hc2	heavy	H	2	 	VAL	3.6288507	1.0
 8hc2	heavy	H	3	 	GLN	0.0	0.0
 8hc2	heavy	H	4	 	LEU	0.0	0.0
 8hc2	heavy	H	5	 	VAL	0.0	0.0
@@ -75839,7 +75839,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hc4	light	E	66	 	LYS	0.0	0.0
 8hc4	light	E	67	 	SER	0.0	0.0
 8hc4	light	E	68	 	GLY	0.0	0.0
-8hc4	light	E	69	 	THR	3.6428864	1.0
+8hc4	light	E	69	 	THR	3.6428866	1.0
 8hc4	light	E	70	 	SER	0.0	0.0
 8hc4	light	E	71	 	ALA	0.0	0.0
 8hc4	light	E	72	 	SER	0.0	0.0
@@ -76099,7 +76099,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hc5	light	L	65	 	SER	0.0	0.0
 8hc5	light	L	66	 	GLY	0.0	0.0
 8hc5	light	L	67	 	SER	2.9076335	1.0
-8hc5	light	L	68	 	GLY	3.473522	1.0
+8hc5	light	L	68	 	GLY	3.4735217	1.0
 8hc5	light	L	69	 	THR	0.0	0.0
 8hc5	light	L	70	 	ASP	0.0	0.0
 8hc5	light	L	71	 	PHE	0.0	0.0
@@ -76421,7 +76421,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hc6	light	L	126	 	LYS	0.0	0.0
 8hc6	light	L	127	 	SER	0.0	0.0
 8hc6	light	L	128	 	GLY	0.0	0.0
-8hc7	heavy	H	1	 	GLU	3.7049325	1.0
+8hc7	heavy	H	1	 	GLU	3.7049322	1.0
 8hc7	heavy	H	2	 	VAL	0.0	0.0
 8hc7	heavy	H	3	 	GLN	0.0	0.0
 8hc7	heavy	H	4	 	LEU	0.0	0.0
@@ -76517,7 +76517,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8hc7	heavy	H	91	 	TYR	0.0	0.0
 8hc7	heavy	H	92	 	CYS	0.0	0.0
 8hc7	heavy	H	93	 	ALA	0.0	0.0
-8hc7	heavy	H	94	 	ARG	3.6500638	1.0
+8hc7	heavy	H	94	 	ARG	3.6500635	1.0
 8hc7	heavy	H	95	 	GLY	0.0	0.0
 8hc7	heavy	H	96	 	LEU	3.3185146	1.0
 8hc7	heavy	H	97	 	GLY	0.0	0.0
@@ -78245,7 +78245,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7whb	light	E	89	 	GLN	0.0	0.0
 7whb	light	E	90	 	GLN	0.0	0.0
 7whb	light	E	91	 	ARG	0.0	0.0
-7whb	light	E	92	 	SER	3.5681021	1.0
+7whb	light	E	92	 	SER	3.5681024	1.0
 7whb	light	E	93	 	ASN	3.2852705	1.0
 7whb	light	E	94	 	TRP	3.4112768	1.0
 7whb	light	E	95	 	PRO	0.0	0.0
@@ -80127,7 +80127,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wck	heavy	A	30	 	THR	0.0	0.0
 7wck	heavy	A	31	 	ASN	3.5596278	1.0
 7wck	heavy	A	32	 	SER	0.0	0.0
-7wck	heavy	A	33	 	ALA	3.2998083	1.0
+7wck	heavy	A	33	 	ALA	3.299808	1.0
 7wck	heavy	A	34	 	MET	0.0	0.0
 7wck	heavy	A	35	 	GLN	0.0	0.0
 7wck	heavy	A	36	 	TRP	0.0	0.0
@@ -80879,7 +80879,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7ykj	heavy	A	93	 	ALA	0.0	0.0
 7ykj	heavy	A	94	 	LYS	0.0	0.0
 7ykj	heavy	A	95	 	ALA	0.0	0.0
-7ykj	heavy	A	96	 	ILE	3.9844477	1.0
+7ykj	heavy	A	96	 	ILE	3.9844475	1.0
 7ykj	heavy	A	97	 	SER	3.1109145	1.0
 7ykj	heavy	A	98	 	ARG	2.6878862	1.0
 7ykj	heavy	A	99	 	TYR	3.235171	1.0
@@ -81011,7 +81011,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7ykj	light	D	106	 	ILE	0.0	0.0
 7ykj	light	D	107	 	LYS	0.0	0.0
 7t72	heavy	H	1	 	GLU	0.0	0.0
-7t72	heavy	H	2	 	VAL	3.4707363	1.0
+7t72	heavy	H	2	 	VAL	3.470736	1.0
 7t72	heavy	H	3	 	GLN	0.0	0.0
 7t72	heavy	H	4	 	LEU	0.0	0.0
 7t72	heavy	H	5	 	VAL	0.0	0.0
@@ -82926,7 +82926,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7df1	heavy	H	67	 	VAL	0.0	0.0
 7df1	heavy	H	68	 	THR	3.8029766	1.0
 7df1	heavy	H	69	 	MET	0.0	0.0
-7df1	heavy	H	70	 	THR	3.4920943	1.0
+7df1	heavy	H	70	 	THR	3.4920945	1.0
 7df1	heavy	H	71	 	ARG	0.0	0.0
 7df1	heavy	H	72	 	ASP	0.0	0.0
 7df1	heavy	H	73	 	THR	0.0	0.0
@@ -85215,7 +85215,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8eb2	light	L	30	B	SER	0.0	0.0
 8eb2	light	L	30	C	ASN	3.5382159	1.0
 8eb2	light	L	30	D	GLY	0.0	0.0
-8eb2	light	L	30	E	ASN	3.2918546	1.0
+8eb2	light	L	30	E	ASN	3.2918544	1.0
 8eb2	light	L	31	 	THR	0.0	0.0
 8eb2	light	L	32	 	TYR	0.0	0.0
 8eb2	light	L	33	 	LEU	0.0	0.0
@@ -85366,7 +85366,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7u9o	heavy	H	53	 	ASN	0.0	0.0
 7u9o	heavy	H	54	 	SER	0.0	0.0
 7u9o	heavy	H	55	 	GLY	0.0	0.0
-7u9o	heavy	H	56	 	VAL	3.7847757	1.0
+7u9o	heavy	H	56	 	VAL	3.7847755	1.0
 7u9o	heavy	H	57	 	THR	3.3982313	1.0
 7u9o	heavy	H	58	 	ASN	3.3630114	1.0
 7u9o	heavy	H	59	 	TYR	0.0	0.0
@@ -85896,7 +85896,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7xmz	heavy	H	56	 	VAL	3.0499697	1.0
 7xmz	heavy	H	57	 	ILE	3.7176614	1.0
 7xmz	heavy	H	58	 	GLY	0.0	0.0
-7xmz	heavy	H	59	 	TYR	3.5503356	1.0
+7xmz	heavy	H	59	 	TYR	3.550336	1.0
 7xmz	heavy	H	60	 	ALA	0.0	0.0
 7xmz	heavy	H	61	 	ASP	0.0	0.0
 7xmz	heavy	H	62	 	SER	0.0	0.0
@@ -86471,7 +86471,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7sj0	light	L	53	 	LYS	0.0	0.0
 7sj0	light	L	54	 	ARG	0.0	0.0
 7sj0	light	L	55	 	PRO	0.0	0.0
-7sj0	light	L	56	 	SER	3.6332996	1.0
+7sj0	light	L	56	 	SER	3.6332994	1.0
 7sj0	light	L	57	 	GLY	0.0	0.0
 7sj0	light	L	58	 	ILE	0.0	0.0
 7sj0	light	L	59	 	PRO	0.0	0.0
@@ -87127,7 +87127,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8err	heavy	H	94	 	ARG	0.0	0.0
 8err	heavy	H	95	 	HIS	0.0	0.0
 8err	heavy	H	96	 	THR	0.0	0.0
-8err	heavy	H	97	 	ILE	3.736848	1.0
+8err	heavy	H	97	 	ILE	3.7368484	1.0
 8err	heavy	H	98	 	PRO	0.0	0.0
 8err	heavy	H	99	 	SER	0.0	0.0
 8err	heavy	H	100	 	ILE	0.0	0.0
@@ -87357,7 +87357,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7yr1	heavy	H	100	 	GLU	2.7491238	1.0
 7yr1	heavy	H	100	A	LEU	3.3679605	1.0
 7yr1	heavy	H	100	B	PRO	3.145542	1.0
-7yr1	heavy	H	100	C	GLY	3.8167522	1.0
+7yr1	heavy	H	100	C	GLY	3.816752	1.0
 7yr1	heavy	H	100	D	ALA	0.0	0.0
 7yr1	heavy	H	100	E	GLY	0.0	0.0
 7yr1	heavy	H	100	F	TYR	0.0	0.0
@@ -88265,7 +88265,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wrj	heavy	A	25	 	SER	0.0	0.0
 7wrj	heavy	A	26	 	GLY	0.0	0.0
 7wrj	heavy	A	27	 	PHE	0.0	0.0
-7wrj	heavy	A	28	 	SER	3.530813	1.0
+7wrj	heavy	A	28	 	SER	3.5308127	1.0
 7wrj	heavy	A	29	 	LEU	0.0	0.0
 7wrj	heavy	A	30	 	LYS	3.237443	1.0
 7wrj	heavy	A	31	 	LYS	2.4723842	1.0
@@ -88343,7 +88343,6 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wrj	heavy	A	98	 	LEU	0.0	0.0
 7wrj	heavy	A	99	 	ASP	0.0	0.0
 7wrj	heavy	A	100	 	SER	3.044039	1.0
-7wrj	heavy	A	100	 	SER	3.728712	1.0
 7wrj	heavy	A	100	A	ASP	3.3574803	1.0
 7wrj	heavy	A	100	B	LEU	3.2070777	1.0
 7wrj	heavy	A	100	C	ILE	3.7453635	1.0
@@ -89104,7 +89103,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8e7m	heavy	H	97	 	ALA	0.0	0.0
 8e7m	heavy	H	98	 	MET	2.4957333	1.0
 8e7m	heavy	H	99	 	VAL	3.2927737	1.0
-8e7m	heavy	H	100	 	GLY	3.7346323	1.0
+8e7m	heavy	H	100	 	GLY	3.7346325	1.0
 8e7m	heavy	H	100	A	ALA	0.0	0.0
 8e7m	heavy	H	100	B	ASP	0.0	0.0
 8e7m	heavy	H	100	C	ALA	0.0	0.0
@@ -90839,7 +90838,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7xck	heavy	A	25	 	SER	0.0	0.0
 7xck	heavy	A	26	 	GLY	0.0	0.0
 7xck	heavy	A	27	 	TYR	0.0	0.0
-7xck	heavy	A	28	 	PRO	3.663874	1.0
+7xck	heavy	A	28	 	PRO	3.6638741	1.0
 7xck	heavy	A	29	 	PHE	0.0	0.0
 7xck	heavy	A	30	 	THR	3.347797	1.0
 7xck	heavy	A	31	 	SER	0.0	0.0
@@ -91755,7 +91754,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dad	light	L	93	 	ASN	0.0	0.0
 8dad	light	L	94	 	SER	0.0	0.0
 8dad	light	L	95	 	PRO	0.0	0.0
-8dad	light	L	96	 	TRP	3.7739275	1.0
+8dad	light	L	96	 	TRP	3.7739272	1.0
 8dad	light	L	97	 	THR	0.0	0.0
 8dad	light	L	98	 	PHE	0.0	0.0
 8dad	light	L	99	 	GLY	0.0	0.0
@@ -92345,7 +92344,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dlw	heavy	C	100	B	TRP	0.0	0.0
 8dlw	heavy	C	100	C	SER	0.0	0.0
 8dlw	heavy	C	100	D	GLY	0.0	0.0
-8dlw	heavy	C	100	E	TYR	3.2858388	1.0
+8dlw	heavy	C	100	E	TYR	3.2858386	1.0
 8dlw	heavy	C	100	F	SER	0.0	0.0
 8dlw	heavy	C	100	G	TYR	0.0	0.0
 8dlw	heavy	C	100	H	PHE	0.0	0.0
@@ -92392,7 +92391,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 8dlw	light	D	30	 	SER	0.0	0.0
 8dlw	light	D	30	A	SER	0.0	0.0
 8dlw	light	D	31	 	SER	0.0	0.0
-8dlw	light	D	32	 	TYR	3.751211	1.0
+8dlw	light	D	32	 	TYR	3.7512107	1.0
 8dlw	light	D	33	 	LEU	0.0	0.0
 8dlw	light	D	34	 	ALA	0.0	0.0
 8dlw	light	D	35	 	TRP	0.0	0.0
@@ -93996,7 +93995,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7fjc	heavy	H	51	 	ILE	0.0	0.0
 7fjc	heavy	H	52	 	ASN	0.0	0.0
 7fjc	heavy	H	52	A	ALA	0.0	0.0
-7fjc	heavy	H	53	 	GLY	3.674021	1.0
+7fjc	heavy	H	53	 	GLY	3.6740212	1.0
 7fjc	heavy	H	54	 	ASN	0.0	0.0
 7fjc	heavy	H	55	 	GLY	0.0	0.0
 7fjc	heavy	H	56	 	ASN	0.0	0.0
@@ -98869,7 +98868,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wo4	heavy	D	53	 	ASP	0.0	0.0
 7wo4	heavy	D	54	 	GLY	0.0	0.0
 7wo4	heavy	D	55	 	GLY	0.0	0.0
-7wo4	heavy	D	56	 	GLU	3.934334	1.0
+7wo4	heavy	D	56	 	GLU	3.9343338	1.0
 7wo4	heavy	D	57	 	LYS	0.0	0.0
 7wo4	heavy	D	58	 	TYR	0.0	0.0
 7wo4	heavy	D	59	 	TYR	0.0	0.0
@@ -102295,7 +102294,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7jmo	heavy	H	100	 	GLY	0.0	0.0
 7jmo	heavy	H	100	A	GLY	0.0	0.0
 7jmo	heavy	H	100	B	MET	0.0	0.0
-7jmo	heavy	H	101	 	ASP	3.7955246	1.0
+7jmo	heavy	H	101	 	ASP	3.7955248	1.0
 7jmo	heavy	H	102	 	VAL	0.0	0.0
 7jmo	heavy	H	103	 	TRP	0.0	0.0
 7jmo	heavy	H	104	 	GLY	0.0	0.0
@@ -105137,7 +105136,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7bel	heavy	C	53	 	ASP	3.5332704	1.0
 7bel	heavy	C	54	 	GLY	0.0	0.0
 7bel	heavy	C	55	 	SER	3.3925722	1.0
-7bel	heavy	C	56	 	ASN	3.2515178	1.0
+7bel	heavy	C	56	 	ASN	3.251518	1.0
 7bel	heavy	C	57	 	LYS	0.0	0.0
 7bel	heavy	C	58	 	TYR	3.9951968	1.0
 7bel	heavy	C	59	 	TYR	0.0	0.0
@@ -106848,7 +106847,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6rp8	heavy	h	47	 	TRP	0.0	0.0
 6rp8	heavy	h	48	 	VAL	0.0	0.0
 6rp8	heavy	h	49	 	THR	0.0	0.0
-6rp8	heavy	h	50	 	PHE	3.9802763	1.0
+6rp8	heavy	h	50	 	PHE	3.980276	1.0
 6rp8	heavy	h	51	 	ILE	0.0	0.0
 6rp8	heavy	h	52	 	SER	2.815184	1.0
 6rp8	heavy	h	52	A	TYR	2.4722207	1.0
@@ -109619,7 +109618,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6r0x	light	D	93	 	THR	3.1756759	1.0
 6r0x	light	D	94	 	LEU	3.4884508	1.0
 6r0x	light	D	95	 	PRO	0.0	0.0
-6r0x	light	D	96	 	TRP	3.4408958	1.0
+6r0x	light	D	96	 	TRP	3.440896	1.0
 6r0x	light	D	97	 	THR	0.0	0.0
 6r0x	light	D	98	 	PHE	0.0	0.0
 6r0x	light	D	99	 	GLY	0.0	0.0
@@ -112160,7 +112159,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7k43	heavy	C	100	B	TRP	0.0	0.0
 7k43	heavy	C	100	C	SER	0.0	0.0
 7k43	heavy	C	100	D	GLY	0.0	0.0
-7k43	heavy	C	100	E	TYR	3.4479535	1.0
+7k43	heavy	C	100	E	TYR	3.4479537	1.0
 7k43	heavy	C	100	F	SER	0.0	0.0
 7k43	heavy	C	100	G	TYR	0.0	0.0
 7k43	heavy	C	100	H	PHE	0.0	0.0
@@ -112843,7 +112842,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7amr	heavy	H	29	 	PHE	0.0	0.0
 7amr	heavy	H	30	 	THR	0.0	0.0
 7amr	heavy	H	31	 	GLY	0.0	0.0
-7amr	heavy	H	32	 	PHE	3.957331	1.0
+7amr	heavy	H	32	 	PHE	3.9573307	1.0
 7amr	heavy	H	33	 	VAL	0.0	0.0
 7amr	heavy	H	34	 	MET	0.0	0.0
 7amr	heavy	H	35	 	HIS	0.0	0.0
@@ -113350,7 +113349,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7nx7	light	L	128	 	GLY	0.0	0.0
 7dk2	heavy	D	1	 	GLU	2.5653958	1.0
 7dk2	heavy	D	2	 	VAL	0.0	0.0
-7dk2	heavy	D	3	 	GLN	3.1192536	1.0
+7dk2	heavy	D	3	 	GLN	3.1192539	1.0
 7dk2	heavy	D	4	 	LEU	0.0	0.0
 7dk2	heavy	D	5	 	VAL	0.0	0.0
 7dk2	heavy	D	6	 	GLU	0.0	0.0
@@ -113451,7 +113450,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7dk2	heavy	D	97	 	GLY	3.3148646	1.0
 7dk2	heavy	D	98	 	ILE	3.5912356	1.0
 7dk2	heavy	D	99	 	LEU	0.0	0.0
-7dk2	heavy	D	100	 	TRP	3.7132084	1.0
+7dk2	heavy	D	100	 	TRP	3.7132087	1.0
 7dk2	heavy	D	100	A	PHE	0.0	0.0
 7dk2	heavy	D	100	B	GLY	0.0	0.0
 7dk2	heavy	D	100	C	ASP	3.943341	1.0
@@ -116340,7 +116339,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4z5r	light	V	50	 	TYR	3.6822348	1.0
 4z5r	light	V	51	 	ALA	0.0	0.0
 4z5r	light	V	52	 	SER	0.0	0.0
-4z5r	light	V	53	 	ASN	3.642308	1.0
+4z5r	light	V	53	 	ASN	3.6423082	1.0
 4z5r	light	V	54	 	LEU	0.0	0.0
 4z5r	light	V	55	 	GLU	0.0	0.0
 4z5r	light	V	56	 	SER	0.0	0.0
@@ -122055,7 +122054,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5lsp	light	L	25	 	ALA	0.0	0.0
 5lsp	light	L	26	 	SER	0.0	0.0
 5lsp	light	L	27	 	GLN	0.0	0.0
-5lsp	light	L	28	 	ASP	3.657991	1.0
+5lsp	light	L	28	 	ASP	3.6579912	1.0
 5lsp	light	L	29	 	ILE	3.935807	1.0
 5lsp	light	L	30	 	SER	3.5679486	1.0
 5lsp	light	L	31	 	ASN	0.0	0.0
@@ -124248,7 +124247,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7shy	light	D	106	 	ILE	0.0	0.0
 7shy	light	D	107	 	LYS	0.0	0.0
 7shy	light	D	108	 	GLY	0.0	0.0
-7dk0	heavy	A	1	 	GLU	3.7893405	1.0
+7dk0	heavy	A	1	 	GLU	3.7893403	1.0
 7dk0	heavy	A	2	 	VAL	0.0	0.0
 7dk0	heavy	A	3	 	GLN	0.0	0.0
 7dk0	heavy	A	4	 	LEU	0.0	0.0
@@ -129910,7 +129909,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7chf	light	B	30	B	SER	0.0	0.0
 7chf	light	B	30	C	ASN	3.3152142	1.0
 7chf	light	B	30	D	GLY	0.0	0.0
-7chf	light	B	30	E	TYR	3.7120118	1.0
+7chf	light	B	30	E	TYR	3.712012	1.0
 7chf	light	B	31	 	ASN	0.0	0.0
 7chf	light	B	32	 	TYR	0.0	0.0
 7chf	light	B	33	 	LEU	0.0	0.0
@@ -130334,7 +130333,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6yxd	heavy	H	55	 	GLY	0.0	0.0
 6yxd	heavy	H	56	 	GLY	0.0	0.0
 6yxd	heavy	H	57	 	SER	0.0	0.0
-6yxd	heavy	H	58	 	ILE	3.6678584	1.0
+6yxd	heavy	H	58	 	ILE	3.6678586	1.0
 6yxd	heavy	H	59	 	TYR	0.0	0.0
 6yxd	heavy	H	60	 	ASN	0.0	0.0
 6yxd	heavy	H	61	 	GLN	0.0	0.0
@@ -130551,7 +130550,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5mev	heavy	H	47	 	TRP	0.0	0.0
 5mev	heavy	H	48	 	VAL	0.0	0.0
 5mev	heavy	H	49	 	SER	0.0	0.0
-5mev	heavy	H	50	 	SER	3.9934564	1.0
+5mev	heavy	H	50	 	SER	3.9934566	1.0
 5mev	heavy	H	51	 	ILE	0.0	0.0
 5mev	heavy	H	52	 	SER	2.702174	1.0
 5mev	heavy	H	52	A	SER	2.6337225	1.0
@@ -132889,7 +132888,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4d9r	heavy	H	96	 	GLY	3.3105464	1.0
 4d9r	heavy	H	97	 	GLY	2.837658	1.0
 4d9r	heavy	H	98	 	VAL	0.0	0.0
-4d9r	heavy	H	101	 	ASN	3.7543435	1.0
+4d9r	heavy	H	101	 	ASN	3.7543437	1.0
 4d9r	heavy	H	102	 	ASN	0.0	0.0
 4d9r	heavy	H	103	 	TRP	0.0	0.0
 4d9r	heavy	H	104	 	GLY	0.0	0.0
@@ -133148,7 +133147,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5dur	heavy	H	97	 	LEU	3.151198	1.0
 5dur	heavy	H	98	 	THR	3.4103546	1.0
 5dur	heavy	H	99	 	THR	2.8688142	1.0
-5dur	heavy	H	100	 	VAL	3.697516	1.0
+5dur	heavy	H	100	 	VAL	3.6975157	1.0
 5dur	heavy	H	100	A	THR	0.0	0.0
 5dur	heavy	H	100	B	THR	0.0	0.0
 5dur	heavy	H	100	C	PHE	0.0	0.0
@@ -133673,7 +133672,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5xwd	heavy	H	93	 	ALA	0.0	0.0
 5xwd	heavy	H	94	 	ARG	3.886967	1.0
 5xwd	heavy	H	95	 	LEU	0.0	0.0
-5xwd	heavy	H	96	 	PRO	3.8105137	1.0
+5xwd	heavy	H	96	 	PRO	3.810514	1.0
 5xwd	heavy	H	97	 	MET	3.2294152	1.0
 5xwd	heavy	H	98	 	VAL	3.5328972	1.0
 5xwd	heavy	H	99	 	THR	0.0	0.0
@@ -135879,7 +135878,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5tz2	heavy	H	28	 	SER	0.0	0.0
 5tz2	heavy	H	29	 	PHE	0.0	0.0
 5tz2	heavy	H	30	 	THR	0.0	0.0
-5tz2	heavy	H	31	 	ASP	3.8240287	1.0
+5tz2	heavy	H	31	 	ASP	3.824029	1.0
 5tz2	heavy	H	32	 	TYR	0.0	0.0
 5tz2	heavy	H	33	 	TRP	3.4877155	1.0
 5tz2	heavy	H	34	 	ILE	0.0	0.0
@@ -136398,7 +136397,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7epx	heavy	H	51	 	ILE	0.0	0.0
 7epx	heavy	H	52	 	SER	0.0	0.0
 7epx	heavy	H	52	A	GLY	0.0	0.0
-7epx	heavy	H	53	 	ASP	3.7343738	1.0
+7epx	heavy	H	53	 	ASP	3.734374	1.0
 7epx	heavy	H	54	 	GLY	0.0	0.0
 7epx	heavy	H	55	 	GLY	0.0	0.0
 7epx	heavy	H	56	 	SER	0.0	0.0
@@ -136516,8 +136515,8 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7epx	light	L	29	 	ASN	0.0	0.0
 7epx	light	L	30	 	ILE	0.0	0.0
 7epx	light	L	30	A	GLY	0.0	0.0
-7epx	light	L	30	B	SER	3.8618658	1.0
-7epx	light	L	31	 	ASN	3.4824762	1.0
+7epx	light	L	30	B	SER	3.861866	1.0
+7epx	light	L	31	 	ASN	3.4824765	1.0
 7epx	light	L	32	 	THR	0.0	0.0
 7epx	light	L	33	 	VAL	0.0	0.0
 7epx	light	L	34	 	ASN	0.0	0.0
@@ -137880,7 +137879,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7cgw	light	B	91	 	ALA	3.926578	1.0
 7cgw	light	B	92	 	TYR	2.5597935	1.0
 7cgw	light	B	93	 	SER	0.0	0.0
-7cgw	light	B	94	 	SER	3.9273267	1.0
+7cgw	light	B	94	 	SER	3.9273264	1.0
 7cgw	light	B	95	 	PRO	0.0	0.0
 7cgw	light	B	96	 	TYR	3.4139166	1.0
 7cgw	light	B	97	 	THR	0.0	0.0
@@ -138021,7 +138020,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6t3j	heavy	C	100	 	TYR	3.1300652	1.0
 6t3j	heavy	C	100	A	PHE	3.0467563	1.0
 6t3j	heavy	C	101	 	ALA	0.0	0.0
-6t3j	heavy	C	102	 	TYR	3.7520761	1.0
+6t3j	heavy	C	102	 	TYR	3.752076	1.0
 6t3j	heavy	C	103	 	TRP	0.0	0.0
 6t3j	heavy	C	104	 	GLY	0.0	0.0
 6t3j	heavy	C	105	 	GLN	0.0	0.0
@@ -143744,7 +143743,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7beo	heavy	H	30	 	THR	0.0	0.0
 7beo	heavy	H	31	 	THR	0.0	0.0
 7beo	heavy	H	32	 	SER	0.0	0.0
-7beo	heavy	H	33	 	ALA	3.6333833	1.0
+7beo	heavy	H	33	 	ALA	3.6333835	1.0
 7beo	heavy	H	34	 	VAL	0.0	0.0
 7beo	heavy	H	35	 	GLN	0.0	0.0
 7beo	heavy	H	36	 	TRP	0.0	0.0
@@ -145096,7 +145095,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5wi9	heavy	H	53	 	ASP	3.134008	1.0
 5wi9	heavy	H	54	 	GLY	0.0	0.0
 5wi9	heavy	H	55	 	SER	2.710197	1.0
-5wi9	heavy	H	56	 	ILE	3.4987185	1.0
+5wi9	heavy	H	56	 	ILE	3.4987183	1.0
 5wi9	heavy	H	57	 	LYS	3.2455714	1.0
 5wi9	heavy	H	58	 	TYR	3.6053693	1.0
 5wi9	heavy	H	59	 	TYR	0.0	0.0
@@ -148240,7 +148239,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6pzy	heavy	I	65	 	SER	3.232339	1.0
 6pzy	heavy	I	66	 	ARG	0.0	0.0
 6pzy	heavy	I	67	 	VAL	3.5187218	1.0
-6pzy	heavy	I	68	 	ILE	3.739551	1.0
+6pzy	heavy	I	68	 	ILE	3.7395508	1.0
 6pzy	heavy	I	69	 	ILE	0.0	0.0
 6pzy	heavy	I	70	 	SER	0.0	0.0
 6pzy	heavy	I	71	 	VAL	0.0	0.0
@@ -148444,7 +148443,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4s1q	heavy	H	32	 	TYR	0.0	0.0
 4s1q	heavy	H	33	 	SER	0.0	0.0
 4s1q	heavy	H	34	 	ILE	0.0	0.0
-4s1q	heavy	H	35	 	HIS	3.6719086	1.0
+4s1q	heavy	H	35	 	HIS	3.6719089	1.0
 4s1q	heavy	H	36	 	TRP	0.0	0.0
 4s1q	heavy	H	37	 	VAL	0.0	0.0
 4s1q	heavy	H	38	 	ARG	0.0	0.0
@@ -149750,7 +149749,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6o3a	heavy	B	55	 	ASP	0.0	0.0
 6o3a	heavy	B	56	 	TYR	3.560923	1.0
 6o3a	heavy	B	57	 	THR	0.0	0.0
-6o3a	heavy	B	58	 	TYR	3.4093728	1.0
+6o3a	heavy	B	58	 	TYR	3.4093726	1.0
 6o3a	heavy	B	59	 	TYR	0.0	0.0
 6o3a	heavy	B	60	 	ALA	0.0	0.0
 6o3a	heavy	B	61	 	ASP	0.0	0.0
@@ -150420,7 +150419,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6u02	heavy	H	25	 	SER	0.0	0.0
 6u02	heavy	H	26	 	GLY	0.0	0.0
 6u02	heavy	H	27	 	PHE	0.0	0.0
-6u02	heavy	H	28	 	THR	3.8725832	1.0
+6u02	heavy	H	28	 	THR	3.872583	1.0
 6u02	heavy	H	29	 	PHE	0.0	0.0
 6u02	heavy	H	30	 	SER	0.0	0.0
 6u02	heavy	H	31	 	SER	2.6876142	1.0
@@ -153011,7 +153010,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7l7e	heavy	T	47	 	TRP	0.0	0.0
 7l7e	heavy	T	48	 	ILE	0.0	0.0
 7l7e	heavy	T	49	 	GLY	0.0	0.0
-7l7e	heavy	T	50	 	TRP	3.7035055	1.0
+7l7e	heavy	T	50	 	TRP	3.7035053	1.0
 7l7e	heavy	T	51	 	ILE	0.0	0.0
 7l7e	heavy	T	52	 	VAL	3.7784455	1.0
 7l7e	heavy	T	52	A	ILE	0.0	0.0
@@ -156810,7 +156809,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7n3i	light	L	91	 	TYR	0.0	0.0
 7n3i	light	L	92	 	GLY	3.1363432	1.0
 7n3i	light	L	93	 	SER	3.9194663	1.0
-7n3i	light	L	94	 	SER	3.2375314	1.0
+7n3i	light	L	94	 	SER	3.2375317	1.0
 7n3i	light	L	95	 	PRO	0.0	0.0
 7n3i	light	L	96	 	GLY	0.0	0.0
 7n3i	light	L	97	 	THR	0.0	0.0
@@ -157423,7 +157422,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7nx8	heavy	H	49	 	ALA	0.0	0.0
 7nx8	heavy	H	50	 	VAL	0.0	0.0
 7nx8	heavy	H	51	 	ILE	0.0	0.0
-7nx8	heavy	H	52	 	SER	3.683527	1.0
+7nx8	heavy	H	52	 	SER	3.6835272	1.0
 7nx8	heavy	H	52	A	TYR	0.0	0.0
 7nx8	heavy	H	53	 	ASP	0.0	0.0
 7nx8	heavy	H	54	 	GLY	0.0	0.0
@@ -160294,7 +160293,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7shu	light	F	30	C	GLY	3.0536935	1.0
 7shu	light	F	30	D	ASP	3.4995856	1.0
 7shu	light	F	31	 	SER	0.0	0.0
-7shu	light	F	32	 	TYR	3.3258083	1.0
+7shu	light	F	32	 	TYR	3.325808	1.0
 7shu	light	F	33	 	MET	0.0	0.0
 7shu	light	F	34	 	ASN	0.0	0.0
 7shu	light	F	35	 	TRP	0.0	0.0
@@ -161081,7 +161080,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7f6z	light	L	91	 	SER	0.0	0.0
 7f6z	light	L	92	 	TYR	3.1362	1.0
 7f6z	light	L	93	 	THR	3.7661602	1.0
-7f6z	light	L	94	 	THR	3.4982805	1.0
+7f6z	light	L	94	 	THR	3.4982803	1.0
 7f6z	light	L	95	 	PRO	0.0	0.0
 7f6z	light	L	95	A	LEU	0.0	0.0
 7f6z	light	L	96	 	PHE	0.0	0.0
@@ -161214,7 +161213,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5wux	heavy	C	91	 	TYR	0.0	0.0
 5wux	heavy	C	92	 	CYS	0.0	0.0
 5wux	heavy	C	93	 	ALA	0.0	0.0
-5wux	heavy	C	94	 	ARG	3.987977	1.0
+5wux	heavy	C	94	 	ARG	3.9879768	1.0
 5wux	heavy	C	95	 	GLY	0.0	0.0
 5wux	heavy	C	96	 	TYR	3.3508534	1.0
 5wux	heavy	C	97	 	ARG	3.065204	1.0
@@ -163175,7 +163174,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7n5h	heavy	H	28	 	SER	3.0894852	1.0
 7n5h	heavy	H	29	 	VAL	0.0	0.0
 7n5h	heavy	H	30	 	SER	0.0	0.0
-7n5h	heavy	H	31	 	SER	3.813179	1.0
+7n5h	heavy	H	31	 	SER	3.8131793	1.0
 7n5h	heavy	H	31	A	SER	0.0	0.0
 7n5h	heavy	H	31	B	ASN	2.702601	1.0
 7n5h	heavy	H	32	 	TYR	2.534936	1.0
@@ -165902,7 +165901,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6xc4	light	L	29	 	VAL	3.5373418	1.0
 6xc4	light	L	30	 	SER	3.852777	1.0
 6xc4	light	L	31	 	SER	0.0	0.0
-6xc4	light	L	32	 	TYR	3.869716	1.0
+6xc4	light	L	32	 	TYR	3.8697162	1.0
 6xc4	light	L	33	 	LEU	0.0	0.0
 6xc4	light	L	34	 	ALA	0.0	0.0
 6xc4	light	L	35	 	TRP	0.0	0.0
@@ -167957,7 +167956,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6ml8	heavy	H	98	 	MET	3.3583312	1.0
 6ml8	heavy	H	99	 	GLN	0.0	0.0
 6ml8	heavy	H	100	 	GLN	0.0	0.0
-6ml8	heavy	H	100	A	VAL	3.7635128	1.0
+6ml8	heavy	H	100	A	VAL	3.7635126	1.0
 6ml8	heavy	H	100	B	VAL	0.0	0.0
 6ml8	heavy	H	100	C	SER	2.7184813	1.0
 6ml8	heavy	H	100	D	ALA	2.789355	1.0
@@ -170909,7 +170908,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5wt9	light	L	43	 	ALA	0.0	0.0
 5wt9	light	L	44	 	PRO	0.0	0.0
 5wt9	light	L	45	 	ARG	0.0	0.0
-5wt9	light	L	46	 	LEU	3.913666	1.0
+5wt9	light	L	46	 	LEU	3.9136658	1.0
 5wt9	light	L	47	 	LEU	0.0	0.0
 5wt9	light	L	48	 	ILE	0.0	0.0
 5wt9	light	L	49	 	TYR	2.6252985	1.0
@@ -171937,7 +171936,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6ogx	light	D	53	 	ARG	2.8632302	1.0
 6ogx	light	D	54	 	LEU	0.0	0.0
 6ogx	light	D	55	 	ARG	2.9900792	1.0
-6ogx	light	D	56	 	SER	3.2945642	1.0
+6ogx	light	D	56	 	SER	3.294564	1.0
 6ogx	light	D	57	 	GLY	0.0	0.0
 6ogx	light	D	58	 	VAL	0.0	0.0
 6ogx	light	D	59	 	PRO	0.0	0.0
@@ -175496,7 +175495,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6mi2	heavy	D	95	 	GLY	0.0	0.0
 6mi2	heavy	D	96	 	TYR	3.5307896	1.0
 6mi2	heavy	D	97	 	GLY	0.0	0.0
-6mi2	heavy	D	98	 	ILE	3.5626006	1.0
+6mi2	heavy	D	98	 	ILE	3.5626004	1.0
 6mi2	heavy	D	99	 	PHE	0.0	0.0
 6mi2	heavy	D	101	 	ASP	2.8916993	1.0
 6mi2	heavy	D	102	 	TYR	2.832129	1.0
@@ -177277,7 +177276,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5x8m	heavy	B	47	 	TRP	0.0	0.0
 5x8m	heavy	B	48	 	VAL	0.0	0.0
 5x8m	heavy	B	49	 	ALA	0.0	0.0
-5x8m	heavy	B	50	 	ASN	3.2998974	1.0
+5x8m	heavy	B	50	 	ASN	3.2998977	1.0
 5x8m	heavy	B	51	 	ILE	0.0	0.0
 5x8m	heavy	B	52	 	LYS	3.1330855	1.0
 5x8m	heavy	B	52	A	GLN	0.0	0.0
@@ -178267,7 +178266,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4j4p	light	L	95	 	LEU	0.0	0.0
 4j4p	light	L	95	A	ASP	3.2116404	1.0
 4j4p	light	L	95	B	GLY	0.0	0.0
-4j4p	light	L	96	 	VAL	3.839487	1.0
+4j4p	light	L	96	 	VAL	3.8394868	1.0
 4j4p	light	L	97	 	VAL	0.0	0.0
 4j4p	light	L	98	 	PHE	0.0	0.0
 4j4p	light	L	99	 	GLY	0.0	0.0
@@ -179251,7 +179250,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7s0c	light	L	24	 	GLN	0.0	0.0
 7s0c	light	L	25	 	ALA	0.0	0.0
 7s0c	light	L	26	 	SER	0.0	0.0
-7s0c	light	L	27	 	GLN	3.1282394	1.0
+7s0c	light	L	27	 	GLN	3.1282396	1.0
 7s0c	light	L	28	 	ASP	0.0	0.0
 7s0c	light	L	29	 	ILE	0.0	0.0
 7s0c	light	L	30	 	SER	0.0	0.0
@@ -179580,7 +179579,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7e7y	light	D	88	 	CYS	0.0	0.0
 7e7y	light	D	89	 	CYS	0.0	0.0
 7e7y	light	D	90	 	SER	0.0	0.0
-7e7y	light	D	91	 	TYR	3.8947492	1.0
+7e7y	light	D	91	 	TYR	3.894749	1.0
 7e7y	light	D	92	 	ALA	0.0	0.0
 7e7y	light	D	93	 	GLY	0.0	0.0
 7e7y	light	D	94	 	SER	0.0	0.0
@@ -179807,7 +179806,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7wr8	light	B	63	 	SER	0.0	0.0
 7wr8	light	B	64	 	GLY	0.0	0.0
 7wr8	light	B	65	 	SER	0.0	0.0
-7wr8	light	B	66	 	THR	3.5521584	1.0
+7wr8	light	B	66	 	THR	3.552158	1.0
 7wr8	light	B	67	 	SER	0.0	0.0
 7wr8	light	B	68	 	GLY	0.0	0.0
 7wr8	light	B	69	 	THR	0.0	0.0
@@ -180964,7 +180963,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7or9	heavy	H	47	 	TRP	0.0	0.0
 7or9	heavy	H	48	 	MET	0.0	0.0
 7or9	heavy	H	49	 	GLY	0.0	0.0
-7or9	heavy	H	50	 	TRP	3.7521482	1.0
+7or9	heavy	H	50	 	TRP	3.752148	1.0
 7or9	heavy	H	51	 	ILE	0.0	0.0
 7or9	heavy	H	52	 	SER	0.0	0.0
 7or9	heavy	H	52	A	ALA	0.0	0.0
@@ -181410,7 +181409,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7kfy	light	L	91	 	LEU	0.0	0.0
 7kfy	light	L	92	 	ASN	3.0005348	1.0
 7kfy	light	L	93	 	SER	0.0	0.0
-7kfy	light	L	94	 	TYR	3.8043187	1.0
+7kfy	light	L	94	 	TYR	3.804319	1.0
 7kfy	light	L	95	 	PRO	0.0	0.0
 7kfy	light	L	96	 	GLY	0.0	0.0
 7kfy	light	L	97	 	THR	0.0	0.0
@@ -189373,7 +189372,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4k8r	light	C	93	 	SER	2.825279	1.0
 4k8r	light	C	94	 	TYR	2.6812646	1.0
 4k8r	light	C	95	 	LEU	0.0	0.0
-4k8r	light	C	96	 	ILE	3.17114	1.0
+4k8r	light	C	96	 	ILE	3.1711402	1.0
 4k8r	light	C	97	 	THR	0.0	0.0
 4k8r	light	C	98	 	PHE	0.0	0.0
 4k8r	light	C	99	 	GLY	0.0	0.0
@@ -189455,7 +189454,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7vyt	heavy	B	47	 	TRP	0.0	0.0
 7vyt	heavy	B	48	 	MET	0.0	0.0
 7vyt	heavy	B	49	 	GLY	0.0	0.0
-7vyt	heavy	B	50	 	ILE	3.868078	1.0
+7vyt	heavy	B	50	 	ILE	3.8680778	1.0
 7vyt	heavy	B	51	 	ILE	0.0	0.0
 7vyt	heavy	B	52	 	ASN	0.0	0.0
 7vyt	heavy	B	52	A	PRO	0.0	0.0
@@ -189692,7 +189691,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5czv	heavy	H	53	 	ARG	2.7245295	1.0
 5czv	heavy	H	54	 	TRP	3.362751	1.0
 5czv	heavy	H	55	 	GLY	0.0	0.0
-5czv	heavy	H	56	 	ALA	3.843839	1.0
+5czv	heavy	H	56	 	ALA	3.8438392	1.0
 5czv	heavy	H	57	 	ALA	3.365257	1.0
 5czv	heavy	H	58	 	HIS	3.2667863	1.0
 5czv	heavy	H	59	 	TYR	0.0	0.0
@@ -192088,7 +192087,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7urq	heavy	H	96	 	LEU	3.4485686	1.0
 7urq	heavy	H	97	 	GLU	2.7526538	1.0
 7urq	heavy	H	98	 	VAL	3.226871	1.0
-7urq	heavy	H	99	 	ALA	3.7092006	1.0
+7urq	heavy	H	99	 	ALA	3.7092009	1.0
 7urq	heavy	H	100	 	GLY	0.0	0.0
 7urq	heavy	H	100	A	ALA	0.0	0.0
 7urq	heavy	H	100	B	ILE	0.0	0.0
@@ -200755,7 +200754,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 3sqo	light	L	93	 	SER	0.0	0.0
 3sqo	light	L	94	 	LEU	0.0	0.0
 3sqo	light	L	95	 	TRP	0.0	0.0
-3sqo	light	L	96	 	ARG	3.5921955	1.0
+3sqo	light	L	96	 	ARG	3.5921953	1.0
 3sqo	light	L	97	 	THR	0.0	0.0
 3sqo	light	L	98	 	PHE	0.0	0.0
 3sqo	light	L	99	 	GLY	0.0	0.0
@@ -202675,7 +202674,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6fax	heavy	H	47	 	TRP	0.0	0.0
 6fax	heavy	H	48	 	ILE	0.0	0.0
 6fax	heavy	H	49	 	GLY	0.0	0.0
-6fax	heavy	H	50	 	GLY	3.9833875	1.0
+6fax	heavy	H	50	 	GLY	3.9833872	1.0
 6fax	heavy	H	51	 	ILE	0.0	0.0
 6fax	heavy	H	52	 	ILE	0.0	0.0
 6fax	heavy	H	52	A	PRO	0.0	0.0
@@ -206120,7 +206119,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7d00	heavy	J	53	 	PRO	3.5119617	1.0
 7d00	heavy	J	54	 	GLY	3.791282	1.0
 7d00	heavy	J	55	 	GLY	0.0	0.0
-7d00	heavy	J	56	 	SER	3.1424015	1.0
+7d00	heavy	J	56	 	SER	3.1424017	1.0
 7d00	heavy	J	57	 	THR	0.0	0.0
 7d00	heavy	J	58	 	PHE	3.431809	1.0
 7d00	heavy	J	59	 	TYR	0.0	0.0
@@ -208189,7 +208188,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4xrc	heavy	B	55	 	GLY	0.0	0.0
 4xrc	heavy	B	56	 	ASN	3.7543914	1.0
 4xrc	heavy	B	57	 	THR	0.0	0.0
-4xrc	heavy	B	58	 	ASN	3.983491	1.0
+4xrc	heavy	B	58	 	ASN	3.9834907	1.0
 4xrc	heavy	B	59	 	TYR	0.0	0.0
 4xrc	heavy	B	60	 	ASN	0.0	0.0
 4xrc	heavy	B	61	 	PRO	0.0	0.0
@@ -209261,7 +209260,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7djz	heavy	A	61	 	GLN	3.8168068	1.0
 7djz	heavy	A	62	 	GLU	0.0	0.0
 7djz	heavy	A	63	 	VAL	0.0	0.0
-7djz	heavy	A	64	 	GLN	3.898085	1.0
+7djz	heavy	A	64	 	GLN	3.8980849	1.0
 7djz	heavy	A	65	 	GLY	0.0	0.0
 7djz	heavy	A	66	 	ARG	0.0	0.0
 7djz	heavy	A	67	 	VAL	0.0	0.0
@@ -210026,7 +210025,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7lab	heavy	Y	32	 	TYR	2.9236832	1.0
 7lab	heavy	Y	33	 	TYR	2.0267005	1.0
 7lab	heavy	Y	34	 	MET	0.0	0.0
-7lab	heavy	Y	35	 	HIS	3.9474795	1.0
+7lab	heavy	Y	35	 	HIS	3.9474797	1.0
 7lab	heavy	Y	36	 	TRP	0.0	0.0
 7lab	heavy	Y	37	 	VAL	0.0	0.0
 7lab	heavy	Y	38	 	GLN	0.0	0.0
@@ -210704,7 +210703,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5hhv	light	L	47	 	VAL	0.0	0.0
 5hhv	light	L	48	 	ILE	0.0	0.0
 5hhv	light	L	49	 	PHE	0.0	0.0
-5hhv	light	L	50	 	ALA	3.7922165	1.0
+5hhv	light	L	50	 	ALA	3.7922163	1.0
 5hhv	light	L	51	 	ASN	0.0	0.0
 5hhv	light	L	52	 	ASN	0.0	0.0
 5hhv	light	L	53	 	GLN	3.81167	1.0
@@ -211508,7 +211507,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7s0b	light	D	53	 	ASN	3.6627162	1.0
 7s0b	light	D	54	 	LEU	0.0	0.0
 7s0b	light	D	55	 	GLU	3.582907	1.0
-7s0b	light	D	56	 	THR	3.546901	1.0
+7s0b	light	D	56	 	THR	3.5469007	1.0
 7s0b	light	D	57	 	GLY	0.0	0.0
 7s0b	light	D	58	 	VAL	0.0	0.0
 7s0b	light	D	59	 	PRO	0.0	0.0
@@ -211782,7 +211781,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4xnq	light	L	63	 	SER	0.0	0.0
 4xnq	light	L	64	 	GLY	0.0	0.0
 4xnq	light	L	65	 	SER	0.0	0.0
-4xnq	light	L	66	 	ASN	3.320202	1.0
+4xnq	light	L	66	 	ASN	3.3202019	1.0
 4xnq	light	L	67	 	SER	0.0	0.0
 4xnq	light	L	68	 	GLY	0.0	0.0
 4xnq	light	L	69	 	ASP	0.0	0.0
@@ -212477,7 +212476,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7e72	heavy	A	96	 	LEU	3.7238922	1.0
 7e72	heavy	A	97	 	TYR	2.981169	1.0
 7e72	heavy	A	98	 	GLY	0.0	0.0
-7e72	heavy	A	101	 	ASN	3.8900208	1.0
+7e72	heavy	A	101	 	ASN	3.8900206	1.0
 7e72	heavy	A	102	 	SER	0.0	0.0
 7e72	heavy	A	103	 	TRP	0.0	0.0
 7e72	heavy	A	104	 	GLY	0.0	0.0
@@ -213428,7 +213427,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7so9	heavy	E	24	 	ALA	0.0	0.0
 7so9	heavy	E	25	 	SER	0.0	0.0
 7so9	heavy	E	26	 	GLY	0.0	0.0
-7so9	heavy	E	27	 	TYR	3.7683551	1.0
+7so9	heavy	E	27	 	TYR	3.768355	1.0
 7so9	heavy	E	28	 	THR	3.899501	1.0
 7so9	heavy	E	29	 	PHE	3.0995848	1.0
 7so9	heavy	E	30	 	THR	2.8245215	1.0
@@ -214440,7 +214439,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7bem	heavy	H	23	 	ALA	0.0	0.0
 7bem	heavy	H	24	 	ALA	0.0	0.0
 7bem	heavy	H	25	 	SER	0.0	0.0
-7bem	heavy	H	26	 	GLY	3.0231702	1.0
+7bem	heavy	H	26	 	GLY	3.0231705	1.0
 7bem	heavy	H	27	 	LEU	0.0	0.0
 7bem	heavy	H	28	 	THR	3.1565392	1.0
 7bem	heavy	H	29	 	VAL	0.0	0.0
@@ -214642,7 +214641,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7bem	light	L	107	 	LYS	0.0	0.0
 7bem	light	L	108	 	ALA	0.0	0.0
 7chb	heavy	H	1	 	GLU	0.0	0.0
-7chb	heavy	H	2	 	VAL	3.9645028	1.0
+7chb	heavy	H	2	 	VAL	3.9645026	1.0
 7chb	heavy	H	3	 	GLN	0.0	0.0
 7chb	heavy	H	4	 	LEU	0.0	0.0
 7chb	heavy	H	5	 	VAL	0.0	0.0
@@ -214957,7 +214956,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6nmv	heavy	H	53	 	SER	3.5512505	1.0
 6nmv	heavy	H	54	 	GLY	0.0	0.0
 6nmv	heavy	H	55	 	VAL	0.0	0.0
-6nmv	heavy	H	56	 	ILE	3.131501	1.0
+6nmv	heavy	H	56	 	ILE	3.1315007	1.0
 6nmv	heavy	H	57	 	THR	0.0	0.0
 6nmv	heavy	H	58	 	TYR	3.1438863	1.0
 6nmv	heavy	H	59	 	TYR	0.0	0.0
@@ -215001,7 +215000,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6nmv	heavy	H	94	 	THR	0.0	0.0
 6nmv	heavy	H	95	 	ASP	3.3343513	1.0
 6nmv	heavy	H	96	 	THR	3.3195999	1.0
-6nmv	heavy	H	97	 	PHE	3.9813275	1.0
+6nmv	heavy	H	97	 	PHE	3.9813278	1.0
 6nmv	heavy	H	101	 	ASP	0.0	0.0
 6nmv	heavy	H	102	 	HIS	0.0	0.0
 6nmv	heavy	H	103	 	TRP	0.0	0.0
@@ -216515,7 +216514,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6okn	heavy	A	28	 	THR	0.0	0.0
 6okn	heavy	A	29	 	PHE	0.0	0.0
 6okn	heavy	A	30	 	THR	0.0	0.0
-6okn	heavy	A	31	 	ASP	3.4115613	1.0
+6okn	heavy	A	31	 	ASP	3.411561	1.0
 6okn	heavy	A	32	 	SER	3.568282	1.0
 6okn	heavy	A	33	 	TYR	3.4911592	1.0
 6okn	heavy	A	34	 	MET	0.0	0.0
@@ -216662,7 +216661,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6okn	light	B	43	 	ALA	0.0	0.0
 6okn	light	B	44	 	PRO	0.0	0.0
 6okn	light	B	45	 	LYS	0.0	0.0
-6okn	light	B	46	 	LEU	3.8542376	1.0
+6okn	light	B	46	 	LEU	3.8542378	1.0
 6okn	light	B	47	 	LEU	0.0	0.0
 6okn	light	B	48	 	ILE	0.0	0.0
 6okn	light	B	49	 	TYR	2.9910967	1.0
@@ -216794,7 +216793,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4hwb	heavy	H	47	 	TRP	3.981684	1.0
 4hwb	heavy	H	48	 	MET	0.0	0.0
 4hwb	heavy	H	49	 	GLY	0.0	0.0
-4hwb	heavy	H	50	 	VAL	3.7581701	1.0
+4hwb	heavy	H	50	 	VAL	3.7581704	1.0
 4hwb	heavy	H	51	 	ILE	0.0	0.0
 4hwb	heavy	H	52	 	TYR	3.2537444	1.0
 4hwb	heavy	H	52	A	PRO	0.0	0.0
@@ -218435,7 +218434,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7mzi	heavy	H	92	 	CYS	0.0	0.0
 7mzi	heavy	H	93	 	ALA	0.0	0.0
 7mzi	heavy	H	94	 	LYS	0.0	0.0
-7mzi	heavy	H	95	 	VAL	3.8212245	1.0
+7mzi	heavy	H	95	 	VAL	3.8212242	1.0
 7mzi	heavy	H	96	 	GLY	0.0	0.0
 7mzi	heavy	H	97	 	TRP	2.8764813	1.0
 7mzi	heavy	H	98	 	GLY	3.034901	1.0
@@ -219700,7 +219699,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 1iqd	heavy	B	30	 	THR	2.8740058	1.0
 1iqd	heavy	B	31	 	GLU	3.0390728	1.0
 1iqd	heavy	B	32	 	LEU	3.4232	1.0
-1iqd	heavy	B	33	 	PRO	3.4787886	1.0
+1iqd	heavy	B	33	 	PRO	3.4787889	1.0
 1iqd	heavy	B	34	 	VAL	0.0	0.0
 1iqd	heavy	B	35	 	HIS	3.7901235	1.0
 1iqd	heavy	B	36	 	TRP	0.0	0.0
@@ -219895,7 +219894,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 1iqd	light	A	93	 	THR	3.500364	1.0
 1iqd	light	A	94	 	SER	0.0	0.0
 1iqd	light	A	95	 	ALA	3.9066906	1.0
-1iqd	light	A	96	 	ILE	3.7845998	1.0
+1iqd	light	A	96	 	ILE	3.7845995	1.0
 1iqd	light	A	97	 	THR	0.0	0.0
 1iqd	light	A	98	 	PHE	0.0	0.0
 1iqd	light	A	99	 	GLY	0.0	0.0
@@ -225792,7 +225791,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6vgr	light	D	25	 	ALA	0.0	0.0
 6vgr	light	D	26	 	SER	0.0	0.0
 6vgr	light	D	27	 	SER	0.0	0.0
-6vgr	light	D	28	 	SER	3.109094	1.0
+6vgr	light	D	28	 	SER	3.1090937	1.0
 6vgr	light	D	29	 	VAL	0.0	0.0
 6vgr	light	D	30	 	ASN	2.5931158	1.0
 6vgr	light	D	30	A	SER	0.0	0.0
@@ -229909,7 +229908,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 3g6d	light	L	63	 	SER	0.0	0.0
 3g6d	light	L	64	 	GLY	0.0	0.0
 3g6d	light	L	65	 	SER	0.0	0.0
-3g6d	light	L	66	 	ASN	3.6361432	1.0
+3g6d	light	L	66	 	ASN	3.6361434	1.0
 3g6d	light	L	67	 	SER	0.0	0.0
 3g6d	light	L	68	 	GLY	0.0	0.0
 3g6d	light	L	69	 	ASN	0.0	0.0
@@ -229998,7 +229997,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 6o9i	heavy	D	23	 	ARG	0.0	0.0
 6o9i	heavy	D	24	 	ALA	0.0	0.0
 6o9i	heavy	D	25	 	SER	0.0	0.0
-6o9i	heavy	D	26	 	GLY	3.5258522	1.0
+6o9i	heavy	D	26	 	GLY	3.5258524	1.0
 6o9i	heavy	D	27	 	TYR	0.0	0.0
 6o9i	heavy	D	28	 	THR	0.0	0.0
 6o9i	heavy	D	29	 	PHE	0.0	0.0
@@ -230469,7 +230468,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7d85	light	C	90	 	GLY	0.0	0.0
 7d85	light	C	91	 	TRP	2.874111	1.0
 7d85	light	C	92	 	ASP	0.0	0.0
-7d85	light	C	93	 	THR	3.7788546	1.0
+7d85	light	C	93	 	THR	3.7788548	1.0
 7d85	light	C	94	 	SER	0.0	0.0
 7d85	light	C	95	 	LEU	0.0	0.0
 7d85	light	C	95	A	SER	0.0	0.0
@@ -230876,7 +230875,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4y5y	heavy	D	91	 	TYR	0.0	0.0
 4y5y	heavy	D	92	 	CYS	0.0	0.0
 4y5y	heavy	D	93	 	ALA	0.0	0.0
-4y5y	heavy	D	94	 	ARG	3.7619088	1.0
+4y5y	heavy	D	94	 	ARG	3.7619085	1.0
 4y5y	heavy	D	95	 	VAL	0.0	0.0
 4y5y	heavy	D	96	 	SER	3.5609255	1.0
 4y5y	heavy	D	97	 	ARG	2.4703782	1.0
@@ -231295,7 +231294,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7kn3	heavy	M	21	 	SER	0.0	0.0
 7kn3	heavy	M	22	 	CYS	0.0	0.0
 7kn3	heavy	M	23	 	ALA	0.0	0.0
-7kn3	heavy	M	24	 	ALA	3.9906127	1.0
+7kn3	heavy	M	24	 	ALA	3.9906125	1.0
 7kn3	heavy	M	25	 	SER	3.5233636	1.0
 7kn3	heavy	M	26	 	GLY	3.0086114	1.0
 7kn3	heavy	M	27	 	PHE	3.4405932	1.0
@@ -232648,7 +232647,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7e5o	heavy	H	49	 	GLY	0.0	0.0
 7e5o	heavy	H	50	 	GLU	0.0	0.0
 7e5o	heavy	H	51	 	ILE	0.0	0.0
-7e5o	heavy	H	52	 	ASN	3.1572616	1.0
+7e5o	heavy	H	52	 	ASN	3.1572614	1.0
 7e5o	heavy	H	53	 	HIS	0.0	0.0
 7e5o	heavy	H	54	 	SER	0.0	0.0
 7e5o	heavy	H	55	 	GLY	0.0	0.0
@@ -232782,7 +232781,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7e5o	light	L	48	 	ILE	0.0	0.0
 7e5o	light	L	49	 	TYR	0.0	0.0
 7e5o	light	L	50	 	ALA	0.0	0.0
-7e5o	light	L	51	 	ALA	3.192316	1.0
+7e5o	light	L	51	 	ALA	3.1923158	1.0
 7e5o	light	L	52	 	SER	0.0	0.0
 7e5o	light	L	53	 	SER	0.0	0.0
 7e5o	light	L	54	 	LEU	0.0	0.0
@@ -235480,7 +235479,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4i77	light	L	127	 	SER	0.0	0.0
 4i77	light	L	128	 	GLY	0.0	0.0
 7kmi	heavy	A	1	 	GLU	0.0	0.0
-7kmi	heavy	A	2	 	VAL	3.4816716	1.0
+7kmi	heavy	A	2	 	VAL	3.4816713	1.0
 7kmi	heavy	A	3	 	GLN	0.0	0.0
 7kmi	heavy	A	4	 	LEU	0.0	0.0
 7kmi	heavy	A	5	 	VAL	0.0	0.0
@@ -237417,7 +237416,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 1h0d	heavy	B	92	 	CYS	0.0	0.0
 1h0d	heavy	B	93	 	THR	0.0	0.0
 1h0d	heavy	B	94	 	ARG	0.0	0.0
-1h0d	heavy	B	95	 	LEU	3.9041874	1.0
+1h0d	heavy	B	95	 	LEU	3.9041872	1.0
 1h0d	heavy	B	96	 	GLY	0.0	0.0
 1h0d	heavy	B	97	 	ASP	0.0	0.0
 1h0d	heavy	B	98	 	TYR	3.3679056	1.0
@@ -237892,7 +237891,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 3grw	heavy	H	29	 	PHE	0.0	0.0
 3grw	heavy	H	30	 	THR	3.5716398	1.0
 3grw	heavy	H	31	 	SER	2.7198713	1.0
-3grw	heavy	H	32	 	THR	3.8882332	1.0
+3grw	heavy	H	32	 	THR	3.888233	1.0
 3grw	heavy	H	33	 	GLY	0.0	0.0
 3grw	heavy	H	34	 	ILE	0.0	0.0
 3grw	heavy	H	35	 	SER	0.0	0.0
@@ -238986,7 +238985,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7beh	heavy	H	53	 	ASN	2.6176326	1.0
 7beh	heavy	H	54	 	SER	2.570193	1.0
 7beh	heavy	H	55	 	GLY	0.0	0.0
-7beh	heavy	H	56	 	GLY	3.8322396	1.0
+7beh	heavy	H	56	 	GLY	3.8322394	1.0
 7beh	heavy	H	57	 	THR	0.0	0.0
 7beh	heavy	H	58	 	ASN	0.0	0.0
 7beh	heavy	H	59	 	TYR	0.0	0.0
@@ -239248,7 +239247,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7ps6	heavy	H	47	 	TRP	0.0	0.0
 7ps6	heavy	H	48	 	ILE	0.0	0.0
 7ps6	heavy	H	49	 	GLY	0.0	0.0
-7ps6	heavy	H	50	 	SER	3.928105	1.0
+7ps6	heavy	H	50	 	SER	3.9281054	1.0
 7ps6	heavy	H	51	 	MET	0.0	0.0
 7ps6	heavy	H	52	 	TYR	3.4692822	1.0
 7ps6	heavy	H	53	 	TYR	0.0	0.0
@@ -239523,7 +239522,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 5w6g	heavy	H	53	 	TYR	2.6791244	1.0
 5w6g	heavy	H	54	 	SER	2.67839	1.0
 5w6g	heavy	H	55	 	GLY	0.0	0.0
-5w6g	heavy	H	56	 	GLY	3.7223885	1.0
+5w6g	heavy	H	56	 	GLY	3.7223883	1.0
 5w6g	heavy	H	57	 	ALA	0.0	0.0
 5w6g	heavy	H	58	 	TYR	2.97723	1.0
 5w6g	heavy	H	59	 	TYR	0.0	0.0
@@ -240227,7 +240226,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 2qqn	light	L	89	 	GLN	0.0	0.0
 2qqn	light	L	90	 	GLN	0.0	0.0
 2qqn	light	L	91	 	TYR	0.0	0.0
-2qqn	light	L	92	 	LEU	3.7586672	1.0
+2qqn	light	L	92	 	LEU	3.7586675	1.0
 2qqn	light	L	93	 	GLY	0.0	0.0
 2qqn	light	L	94	 	SER	0.0	0.0
 2qqn	light	L	95	 	PRO	0.0	0.0
@@ -245260,7 +245259,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 7l7d	heavy	H	30	 	MET	0.0	0.0
 7l7d	heavy	H	31	 	SER	0.0	0.0
 7l7d	heavy	H	32	 	SER	0.0	0.0
-7l7d	heavy	H	33	 	ALA	3.764493	1.0
+7l7d	heavy	H	33	 	ALA	3.7644932	1.0
 7l7d	heavy	H	34	 	VAL	0.0	0.0
 7l7d	heavy	H	35	 	GLN	0.0	0.0
 7l7d	heavy	H	36	 	TRP	0.0	0.0
@@ -246660,7 +246659,7 @@ pdb_id	chain_type	ab_chain	ab_resnum	ab_icode	ab_resname	distance	contact
 4zfg	heavy	H	96	 	VAL	0.0	0.0
 4zfg	heavy	H	97	 	PHE	0.0	0.0
 4zfg	heavy	H	98	 	PHE	0.0	0.0
-4zfg	heavy	H	99	 	LEU	3.952929	1.0
+4zfg	heavy	H	99	 	LEU	3.9529293	1.0
 4zfg	heavy	H	100	 	PRO	0.0	0.0
 4zfg	heavy	H	100	A	TYR	3.3833816	1.0
 4zfg	heavy	H	100	B	ALA	0.0	0.0
