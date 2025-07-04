@@ -63,6 +63,9 @@ in this folder we did all our analysis on the data, we split the folder to three
 
 in subfolder `01_length` we analysed differences in the lenghts of the CDR-regions of different antibodies
 
+- `01_length_CDRseq.ipynb` @Clara
+The aim of this Jupyter Notebook is to analyse the lengths of the CDRs heavy chain regions, in order to characterize these sequences. Analyzing the variation in CDR lengths across different heavy chain types and comparing the results with the three different organsims (human, influenza, SARS-CoV-2) is relevant to understand these length distributions. 
+
 in subfolder `02_sequence` we analysed differences in the aminoacid composition and sequence of antibodies
 
 - `01_aa_composytion.ipynb` @Michi
@@ -73,8 +76,10 @@ This Jupyter Notebook analyzes the amino acid distributions in the complementari
 In this notebook, antibodies directed against different antigens (SARS-CoV-2, influenza and human) are analyzed. It is investigated whether the properties of the CDR regions (charge, mass, polarity, hydrophobicity and length) differ between the groups. Statistical tests such as the Shapiro-Wilk test, Levene test, Welch-ANOVA and the Games-Howell method are used to test whether these differences are significant.
 
 - `03_pairwise_alignment.ipynb` @Clara
+The pairwise alignment analysis was performed to quantify the sequence similarity among CDR regions of antibodies derived from coronavirus, human, and influenza. The main aim was to compare CDR sequence diversity across different organisms and CDR types, enabling the identification of conserved or highly variable patterns.
 
 - `04_nw_alignment.ipynb` @Clara
+The Needleman–Wunsch algorithm was used to perform global sequence alignments that consider both matches/mismatches and gap penalties, providing a more biologically accurate measure of similarity compared to simpler scoring methods. Unlike basic alignment approaches that only count identical positions, Needleman–Wunsch evaluates the optimal alignment across the entire sequence length, accounting for insertions and deletions. This enables a more precise assessment of sequence conservation and divergence among CDR regions from different organisms.
 
 - `05_PCA.ipynb` @Michi
 
