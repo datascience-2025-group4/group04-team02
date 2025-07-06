@@ -82,6 +82,8 @@ The pairwise alignment analysis was performed to quantify the sequence similarit
 The Needleman–Wunsch algorithm was used to perform global sequence alignments that consider both matches,mismatches and gap penalties, providing a more biologically accurate measure of similarity compared to the global pairwise scoring method used before. Unlike this robust and more basic alignment, that only counts identical positions, Needleman–Wunsch evaluates the optimal alignment across the entire sequence length, accounting for insertions and deletions. This enables a more precise analysis of sequence conservation and divergence among CDR regions from different organisms.
 
 - `05_PCA.ipynb` @Michi
+This notebook performs two Principal Component Analysis (PCA) based on the datasets all_data and all_data_normalized. The aim is to reduce the complex data to two principal components in order to visualize possible differences or groupings between antibodies against human proteins, influenza A and SARS-CoV-2
+
 
 - `06_logistic_regression`@Michi
 
