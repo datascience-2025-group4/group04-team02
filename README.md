@@ -79,7 +79,7 @@ In this notebook, antibodies directed against different antigens (SARS-CoV-2, in
 The pairwise alignment analysis was performed to quantify the sequence similarity among CDR regions of antibodies derived from coronavirus, human, and influenza. The main aim was to compare CDR sequence diversity across different organisms and CDR types, enabling the identification of conserved or highly variable patterns.
 
 - `04_nw_alignment.ipynb` @Clara
-The Needleman–Wunsch algorithm was used to perform global sequence alignments that consider both matches/mismatches and gap penalties, providing a more biologically accurate measure of similarity compared to simpler scoring methods. Unlike basic alignment approaches that only count identical positions, Needleman–Wunsch evaluates the optimal alignment across the entire sequence length, accounting for insertions and deletions. This enables a more precise assessment of sequence conservation and divergence among CDR regions from different organisms.
+The Needleman–Wunsch algorithm was used to perform global sequence alignments that consider both matches,mismatches and gap penalties, providing a more biologically accurate measure of similarity compared to the global pairwise scoring method used before. Unlike this robust and more basic alignment, that only counts identical positions, Needleman–Wunsch evaluates the optimal alignment across the entire sequence length, accounting for insertions and deletions. This enables a more precise analysis of sequence conservation and divergence among CDR regions from different organisms.
 
 - `05_PCA.ipynb` @Michi
 
