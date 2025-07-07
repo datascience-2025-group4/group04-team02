@@ -25,14 +25,20 @@ To run our code, our repository must be loaded from top to bottom, starting with
 - the ab_ag.tsv can be downloaded here https://heibox.uni-heidelberg.de/d/ad23ebb995a04b138ee9/ but should already be in downloaded to this repository if cloned from GitHub.
 
 ## Packages that must be installed
+- BioPython
 - matplotlib
 - numpy
 - os
 - pandas
 - pingouin
+- requests
 - seaborn
 - scipy
+- sklears
+- statsmodels
 
+
+## Folders and Notebooks
 
 1. `data cleanup`
 in this folder we have a total of five notebooks to filter and download the data used in our project, add columns to simplify analysis and create lists and DataFrames required later on in our project. 
@@ -46,7 +52,7 @@ Here the content of each notebook will be explained shortly but is explained in 
    To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
 
 - `01b_exploratory` @lóa
-T  his notebook is dedicated to the exploration of the dataset after filtering. 
+   This notebook is dedicated to the exploration of the dataset after filtering. 
 
 - `02_download_chotia_PDB.ipynb` @lóa
    In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet.
@@ -68,6 +74,7 @@ T  his notebook is dedicated to the exploration of the dataset after filtering.
 
 
 2. `data exploration` Frage wo und ob wir das hier mit einbegreifen @michi??
+   In this notebook, we explored the original ab_ag.tsv dataset to identify patterns and insights that could help formulate our research question.
 
 
 3. `dataanalysis`
@@ -99,13 +106,13 @@ in this subfolder we analysed differences in the aminoacid composition and seque
    This notebook performs two Principal Component Analysis (PCA) based on the datasets all_data and all_data_normalized. The aim is to reduce the complex data to two principal components in order to visualize possible differences or groupings between antibodies against human proteins, influenza A and SARS-CoV-2
 
 
-   - `06_logistic_regression`@Michi
+   
 
 
 -`03_contacts`
 in this subfolder we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
-   - `01_find_atomic_contacts.ipynb` @lóa
+   - `01_find_atomic_contacts.ipynb` @lóa, michi
    In this notebook we will create a DataFrame that contains atomic contacts for all the structures in our cleaned summary file.
 
    - `02_analyze_contacts.ipynb` @lóa
@@ -129,15 +136,14 @@ Extra:
 - `archive`
    in here we put all our notebooks that we generated during the project but dont have or show significant Information for our work or results
 
+## Use of AI Assistance
+Parts of the code used in this project were generated with the help of ChatGPT (OpenAI, 2025) and subsequently reviewed and manually adapted.
 
 
 
 
 
 
-
-
-r
 
 
 
