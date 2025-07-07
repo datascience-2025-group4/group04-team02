@@ -104,8 +104,11 @@ in this subfolder we analysed differences in the aminoacid composition and seque
 in this subfolder we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
    - `01_find_atomic_contacts.ipynb` @lóa
+   In this notebook we will create a DataFrame that contains atomic contacts for all the structures in our cleaned summary file.
 
    - `02_analyze_contacts.ipynb` @lóa
+   This notebook alaysezes the contact frequencies of antibody residues within CDR regions across different species. We assess binding rates at each CDR and observe that some antibody–antigen structures form contacts outside the defined CDRs. CDR definitions are refined based on our binding analysis.
+
 
    - `03_analyze_CDRs.ipynb` @lóa
 
