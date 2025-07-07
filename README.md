@@ -43,10 +43,10 @@ structures with resolution ≤ 3.25 Ångström, drop any rows where critical col
 
 To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
 
-- `01b_exploratory`
+- `01b_exploratory` @lóa
 This notebook is dedicated to the exploration of the dataset in order to make desicions regarding filtering.
 
-- `02_download_chotia_PDB.ipynb`
+- `02_download_chotia_PDB.ipynb` @lóa
 In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
 
 - `03a_cdr_h_seq_influenza.ipynb` @michi 
@@ -111,6 +111,7 @@ in this subfolder we analysed differences in atomic and resedue contacts in the 
 
 
 
+3. `generated`
 3. `generated`
 this is where we save all our generated DataFrames and lists
 
