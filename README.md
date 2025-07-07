@@ -121,7 +121,7 @@ in this subfolder we analysed differences in atomic and resedue contacts in the 
 this is where we save all our generated DataFrames and lists
 
    - `cdrs` here are three csv files which list the PDB Ids
-      - `seq` all generated tsv and txt files that were used for the sequence analysis
+      - `seq` all generated tsv and txt files that were used for the sequence and alignment analysis 
    
    - `contacts` all generated tsv and txt files that were used for the contact analysis
 
