@@ -36,10 +36,10 @@ structures with resolution ≤ 3.25 Ångström, drop any rows where critical col
 
 To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
 
-- `01b_exploratory`
+- `01b_exploratory` @lóa
 This notebook is dedicated to the exploration of the dataset in order to make desicions regarding filtering.
 
-- `02_download_chotia_PDB.ipynb`
+- `02_download_chotia_PDB.ipynb` @lóa
 In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
 
 - `03a_cdr_h_seq_influenza.ipynb` @michi 
@@ -85,16 +85,18 @@ The Needleman–Wunsch algorithm was used to perform global sequence alignments 
 This notebook performs two Principal Component Analysis (PCA) based on the datasets all_data and all_data_normalized. The aim is to reduce the complex data to two principal components in order to visualize possible differences or groupings between antibodies against human proteins, influenza A and SARS-CoV-2
 
 
-- `06_logistic_regression`@Michi
+
 
 
 
 in subfolder `03_contacts` we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
-- `01_find_atomic_contacts.ipynb`
+- `01_find_atomic_contacts.ipynb` @lóa
+- `02_analyze_contacts.ipynb` @lóa
+- `03_analyze_CDRs.ipynb` @lóa
 
 
-3. `generated``
+3. `generated`
 this is where we save all our generated DataFrames and lists
 .
 .
