@@ -17,19 +17,21 @@ See the project description here: https://github.com/maiwen-ch/2025_Data_Analysi
 - The aim of our project is to investigate whether the structural features of the CDR regions differ depending on the type of antigen. More specifically, we looking for characteristic patterns in the CDRs that distinguish between antibodies that target different classes of antigen.
 
 ## Structure of the repository
-To run our code, first load the dataset specified below (ab_ag.tsv: a dataset derived from SAbDab) into a folder named `data`, the folder should be a direct subdirectory of group04-team02. 
+Our Project bases on the dataset `ab_ag.tsv` which was provided from our supervisors.  
 The dataset contains information about heavy-light chain pairing in a PDB structure combined with the corresponding antigen.
-To run our code, our repository must be loaded from top to bottom.
+To run our code, our repository must be loaded from top to bottom, starting with `01a_filter_summary_data.ipynb` in folder; `data cleanup` and then move along to folders `data exploration`and finally `data analysis`
 
 ## Download the datasets worked on
-- the ab_ag.tsv can be downloadet here https://heibox.uni-heidelberg.de/d/ad23ebb995a04b138ee9/
+- the ab_ag.tsv can be downloaded here https://heibox.uni-heidelberg.de/d/ad23ebb995a04b138ee9/ but should already be in downloaded to this repository if cloned from GitHub.
 
 ## Packages that must be installed
-- pandas
-- scipy
-- pingouin
 - matplotlib
+- numpy
+- os
+- pandas
+- pingouin
 - seaborn
+- scipy
 
 
 1. `data cleanup`
@@ -37,39 +39,39 @@ in this folder we have a total of five notebooks to filter and download the data
 Here the content of each notebook will be explained shortly but is explained in more detail in the notebooks themselves. 
 
 - `01a_filter_summary_data.ipynb` @lóa, michi, lotta
-In this notebook we will filter the data to our requirements. 
-Data from `ab_ag.tsv` is imported into a DataFrame and filtered to only keep relevant columns (like `pdb`, `Hchain`, `antigen_chain`, etc.), non-scFv antibodies, 
-structures with resolution ≤ 3.25 Ångström, drop any rows where critical columns are missing and remove entries of specific PDB IDs that don't exist on SAbDaB. 
+   In this notebook we will filter the data to our requirements. 
+   Data from `ab_ag.tsv` is imported into a DataFrame and filtered to only keep relevant columns (like `pdb`, `Hchain`, `antigen_chain`, etc.), non-scFv antibodies, 
+   structures with resolution ≤ 3.25 Ångström, drop any rows where critical columns are missing and remove entries of specific PDB IDs that don't exist on SAbDaB. 
 
-To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
+   To simplify our analysis we decided to reduce our dataset to ab_ag_komplexes where the antigen is a protein and for multiple entries for the same PDB value, keep only one. 
 
 - `01b_exploratory` @lóa
-This notebook is dedicated to the exploration of the dataset in order to make desicions regarding filtering.
+T  his notebook is dedicated to the exploration of the dataset after filtering. 
 
 - `02_download_chotia_PDB.ipynb` @lóa
-In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet
+   In this notebook the prefiltered pdb files from notebooks 'requiered for this project will be downloaded from the internet.
 
 - `03a_cdr_h_seq_influenza.ipynb` @michi 
-This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Influenza proteins
+   This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Influenza proteins
 
 - `03b_cdr_h_seq_human.ipynb` @michi 
-This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Human proteins
+   This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against Human proteins
 
 - `03c_cdr_h_seq_corona.ipynb` @michi 
-This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against SarsCov2 proteins
+   This Notenbook extracts CDR-H1, CDR-H2 and CDR-H3 sequences from Chotia-numbered PDB files for Antibodies against SarsCov2 proteins
 
 - `04_extend-existing-data.ipynb`@lotta
-In this notebook, CDR sequence files are systematically expanded. First, the sequences are checked for validity and the frequency of the individual amino acids is determined. Then average properties such as hydrophobicity, mass, charge and polarity are calculated and added for each CDR region. Finally, the length of each CDR sequence is determined and integrated into the original files as new information.
+   In this notebook, CDR sequence files are systematically expanded. First, the sequences are checked for validity and the frequency of the individual amino acids is determined. Then average properties such as hydrophobicity, mass, charge and polarity are calculated and added for each CDR region. Finally, the length of each CDR sequence is determined and integrated into the original files as new information.
 
 - `05_summary_all_data.ipynb`@lotta
-In this notebook, three data sets from three different sources (human, influenza, SARS-CoV-2) are merged and supplemented by an sorce column. The relative frequency of the 20 amino acids is then calculated for each CDR region. The results are saved in all_data.tsv and in all_data_normalozed.tsv and displayed for control purposes.
+   In this notebook, three data sets from three different sources (human, influenza, SARS-CoV-2) are merged and supplemented by an sorce column. The relative frequency of the 20 amino acids is then calculated for each CDR region. The results are saved in all_data.tsv and in all_data_normalozed.tsv and displayed for control purposes.
 
 
 2. `data exploration` Frage wo und ob wir das hier mit einbegreifen @michi??
 
 
 3. `dataanalysis`
-in this folder we did all our analysis on the data, we split the folder to three subfolders, according to the typ of analysis. 
+in this folder we did all our analysis on the data, we split the folder to three subfolders, according to the typ of analysis. Also here the content of each notebook will be explained shortly but is explained in more detail in the notebooks themselves.
 
 - `01_length`
 in this subfolder we analysed differences in the lenghts of the CDR-regions of different antibodies
@@ -109,12 +111,6 @@ in this subfolder we analysed differences in atomic and resedue contacts in the 
    - `02_analyze_contacts.ipynb` @lóa
    This notebook alaysezes the contact frequencies of antibody residues within CDR regions across different species. We assess binding rates at each CDR and observe that some antibody–antigen structures form contacts outside the defined CDRs. CDR definitions are refined based on our binding analysis.
 
-
-   - `03_analyze_CDRs.ipynb` @lóa
-
-
-
-3. `generated`
 3. `generated`
 this is where we save all our generated DataFrames and lists
 
@@ -128,6 +124,10 @@ this is where we save all our generated DataFrames and lists
    - `files` contains generated and saved Charts
 
    - `stat_tests` contains tsv file for Games-Howell-Test
+
+Extra: 
+- `archive`
+   in here we put all our notebooks that we generated during the project but dont have or show significant Information for our work or results
 
 
 
