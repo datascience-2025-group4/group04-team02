@@ -103,11 +103,11 @@ in this subfolder we analysed differences in the aminoacid composition and seque
 -`03_contacts`
 in this subfolder we analysed differences in atomic and resedue contacts in the CDR-regions of different antibodies. 
 
-   - `01_find_atomic_contacts.ipynb`
+   - `01_find_atomic_contacts.ipynb` @lóa
 
-   - `02_analyze_contacts.ipynb`
+   - `02_analyze_contacts.ipynb` @lóa
 
-   - `03_analyze_CDRs.ipynb`
+   - `03_analyze_CDRs.ipynb` @lóa
 
 
 
